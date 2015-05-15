@@ -30,10 +30,9 @@
         <!-- Banner -->
         <section id="banner">
             <div class="inner">
-                <h2>Spectral</h2>
-                <p>Cubilia urna accumsan<br />
-                    ante interdum vivamus<br />
-                    aliquam id Interdum.</p>
+                <h2>Más Huerto <br> Más Casa</h2>
+                <p>HARVESTING ENCOUNTERS, <br>
+                    KNITTING SOCIETY</p>
                 <ul class="actions">
                     <li><a href="#" class="button special">Activate</a></li>
                 </ul>
