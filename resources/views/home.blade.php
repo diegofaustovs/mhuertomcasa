@@ -1,141 +1,195 @@
 @extends('index')
 
 @section('content')
-    <body class="landing">
-
-    <!-- Page Wrapper -->
+    <body class="homepage">
     <div id="page-wrapper">
 
-        @include('header')
+        <!-- Header -->
+        <div id="header">
+
+            <!-- Inner -->
+            <div class="inner">
+                <header>
+                    <h1><a href="index.html" id="logo">Helios</a></h1>
+                    <hr />
+                    <p>Tortor duis tempor at Sapien</p>
+                </header>
+                <footer>
+                    <a href="#banner" class="button circled scrolly">Start</a>
+                </footer>
+            </div>
+
+            @include('header')
+
+        </div>
 
         <!-- Banner -->
         <section id="banner">
-            <div class="inner">
-                <h2>Más Huerto <br> Más Casa</h2>
-                <p>HARVESTING ENCOUNTERS, <br>
-                    KNITTING SOCIETY</p>
-                <ul class="actions">
-                    <li><a href="#" class="button special">Activate</a></li>
-                </ul>
+            <header>
+                <h2>Mus. Tempor nullam at Varius.</h2>
+                <p>
+                    A tortor varius arcu tempor in Nullam ac nibh ata rutrum augue nec col tellus.
+                </p>
+            </header>
+        </section>
+
+        <!-- Carousel -->
+        <section class="carousel">
+            <div class="reel">
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Pulvinar sagittis congue</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Fermentum sagittis proin</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Sed quis rhoncus placerat</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Ultrices urna sit lobortis</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Varius magnis sollicitudin</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Pulvinar sagittis congue</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Fermentum sagittis proin</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Sed quis rhoncus placerat</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Ultrices urna sit lobortis</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
+                <article>
+                    <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                    <header>
+                        <h3><a href="#">Varius magnis sollicitudin</a></h3>
+                    </header>
+                    <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+                </article>
+
             </div>
-            <a href="#one" class="more scrolly">Learn More</a>
         </section>
 
-        <!-- One -->
-        <section id="one" class="wrapper style1 special">
-            <div class="inner">
-                <header class="major">
-                    <h2>Arcu aliquet vel lobortis ata nisl<br />
-                        eget augue amet aliquet nisl cep donec</h2>
-                    <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-                        fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
-                </header>
-                <ul class="icons major">
-                    <li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-                    <li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-                    <li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
-                </ul>
-            </div>
-        </section>
+        <!-- Main -->
+        <div class="wrapper style2">
 
-        <!-- Two -->
-        <section id="two" class="wrapper alt style2">
-            <section class="spotlight">
-                <div class="image"><img src="{{ asset('images/pic01.jpg') }}" alt="" /></div><div class="content">
-                    <h2>Magna primis lobortis<br />
-                        sed ullamcorper</h2>
-                    <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-                </div>
-            </section>
-            <section class="spotlight">
-                <div class="image"><img src="{{ asset('images/pic02.jpg') }}" alt="" /></div><div class="content">
-                    <h2>Tortor dolore feugiat<br />
-                        elementum magna</h2>
-                    <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-                </div>
-            </section>
-            <section class="spotlight">
-                <div class="image"><img src="{{ asset('images/pic03.jpg') }}" alt="" /></div><div class="content">
-                    <h2>Augue eleifend aliquet<br />
-                        sed condimentum</h2>
-                    <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-                </div>
-            </section>
-        </section>
-
-        <!-- Three -->
-        <section id="three" class="wrapper style3 special">
-            <div class="inner">
-                <header class="major">
-                    <h2>Accumsan mus tortor nunc aliquet</h2>
-                    <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-                        fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
-                </header>
-                <ul class="features">
-                    <li class="icon fa-paper-plane-o">
-                        <h3>Arcu accumsan</h3>
-                        <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-                    </li>
-                    <li class="icon fa-laptop">
-                        <h3>Ac Augue Eget</h3>
-                        <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-                    </li>
-                    <li class="icon fa-code">
-                        <h3>Mus Scelerisque</h3>
-                        <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-                    </li>
-                    <li class="icon fa-headphones">
-                        <h3>Mauris Imperdiet</h3>
-                        <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-                    </li>
-                    <li class="icon fa-heart-o">
-                        <h3>Aenean Primis</h3>
-                        <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-                    </li>
-                    <li class="icon fa-flag-o">
-                        <h3>Tortor Ut</h3>
-                        <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-                    </li>
-                </ul>
-            </div>
-        </section>
-
-        <!-- CTA -->
-        <section id="cta" class="wrapper style4">
-            <div class="inner">
+            <article id="main" class="container special">
+                <a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
                 <header>
-                    <h2>Arcue ut vel commodo</h2>
-                    <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+                    <h2><a href="#">Sed massa imperdiet magnis</a></h2>
+                    <p>
+                        Sociis aenean eu aenean mollis mollis facilisis primis ornare penatibus aenean. Cursus ac enim
+                        pulvinar curabitur morbi convallis. Lectus malesuada sed fermentum dolore amet.
+                    </p>
                 </header>
-                <ul class="actions vertical">
-                    <li><a href="#" class="button fit special">Activate</a></li>
-                    <li><a href="#" class="button fit">Learn More</a></li>
-                </ul>
-            </div>
-        </section>
+                <p>
+                    Commodo id natoque malesuada sollicitudin elit suscipit. Curae suspendisse mauris posuere accumsan massa
+                    posuere lacus convallis tellus interdum. Amet nullam fringilla nibh nulla convallis ut venenatis purus
+                    sit arcu sociis. Nunc fermentum adipiscing tempor cursus nascetur adipiscing adipiscing. Primis aliquam
+                    mus lacinia lobortis phasellus suscipit. Fermentum lobortis non tristique ante proin sociis accumsan
+                    lobortis. Auctor etiam porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum
+                    consequat integer interdum integer purus sapien. Nibh eleifend nulla nascetur pharetra commodo mi augue
+                    interdum tellus. Ornare cursus augue feugiat sodales velit lorem. Semper elementum ullamcorper lacinia
+                    natoque aenean scelerisque.
+                </p>
+                <footer>
+                    <a href="#" class="button">Continue Reading</a>
+                </footer>
+            </article>
 
-        <!-- Footer -->
-        <footer id="footer">
-            <ul class="icons">
-                <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-                <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-                <li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-            </ul>
-            <ul class="copyright">
-                <li>&copy; Untitled</li>
-            </ul>
-        </footer>
+        </div>
 
-    </div>
+        <!-- Features -->
+        <div class="wrapper style1">
 
-    <!-- Scripts -->
-    <script src="{{ asset('/js/jquery.min.js') }}"></script>
-    <script src="{{ asset('/js/jquery.scrollex.min.js') }}"></script>
-    <script src="{{ asset('/js/jquery.scrolly.min.js') }}"></script>
-    <script src="{{ asset('/js/skel.min.js') }}"></script>
-    <script src="{{ asset('/js/init.js') }}"></script>
+            <section id="features" class="container special">
+                <header>
+                    <h2>Morbi ullamcorper et varius leo lacus</h2>
+                    <p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>
+                </header>
+                <div class="row">
+                    <article class="4u 12u(mobile) special">
+                        <a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+                        <header>
+                            <h3><a href="#">Gravida aliquam penatibus</a></h3>
+                        </header>
+                        <p>
+                            Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+                            porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+                        </p>
+                    </article>
+                    <article class="4u 12u(mobile) special">
+                        <a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+                        <header>
+                            <h3><a href="#">Sed quis rhoncus placerat</a></h3>
+                        </header>
+                        <p>
+                            Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+                            porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+                        </p>
+                    </article>
+                    <article class="4u 12u(mobile) special">
+                        <a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+                        <header>
+                            <h3><a href="#">Magna laoreet et aliquam</a></h3>
+                        </header>
+                        <p>
+                            Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+                            porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+                        </p>
+                    </article>
+                </div>
+            </section>
 
-    </body>
+        </div>
 @endsection
