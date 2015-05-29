@@ -1,10 +1,3 @@
-<!-- /**
- * Created by PhpStorm.
- * User: Diego F. Vanegas
- * Date: 14/05/2015
- * Time: 9:14 PM
- */
--->
 <!DOCTYPE HTML>
 <!--
 	Spectral by Pixelarity
