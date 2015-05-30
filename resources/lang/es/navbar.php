@@ -18,7 +18,7 @@ return[
     'patrocinadores' => 'Patrocinadores',
     'todas_noticias' => 'Todas las noticias',
     'prensa' => 'Comunicados de prensa',
-    'general' => 'Informaci&oacuten general',
+    'general' => 'Informaci&oacute;n general',
     'competencias' => 'Competencias',
     'p_proyecto' => 'Patrocinadores del proyecto',
     'p_concurso' => 'Patrocinadores del concurso',
@@ -27,11 +27,11 @@ return[
 
     'web' => 'Web',
     'arquitectura' => 'Arquitectura',
-    'bioclimatica' => 'Bioclim&aacutetica',
+    'bioclimatica' => 'Bioclim&aacute;tica',
     'social' => 'Social',
-    'gestion' => 'Gesti&oacuten',
-    'electrica' => 'El&eacutectrica',
-    'diseno' => 'Dise&ntildeo',
-    'civil' => 'Ingenier&iacutea Civil'
+    'gestion' => 'Gesti&oacute;n',
+    'electrica' => 'El&eacute;ctrica',
+    'diseno' => 'Dise&ntilde;o',
+    'civil' => 'Ingenier&iacute;a Civil'
 
 ];
