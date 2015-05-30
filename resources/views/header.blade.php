@@ -1,27 +1,46 @@
 <!-- Nav -->
 <nav id="nav">
     <ul>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html">{{Lang::get('navbar.inicio')}}</a></li>
         <li>
-            <a href="#">Dropdown</a>
+            <a href="#">{{Lang::get('navbar.noticias')}}</a>
             <ul>
-                <li><a href="#">Lorem ipsum dolor</a></li>
-                <li><a href="#">Magna phasellus</a></li>
-                <li><a href="#">Etiam dolore nisl</a></li>
+                <li><a href="#">{{Lang::get('navbar.todas_noticias')}}</a></li>
+                <li><a href="#">{{Lang::get('navbar.prensa')}}</a></li>
+            </ul>
+        <li>
+            <a href="#">{{Lang::get('navbar.equipo')}}</a>
+            <ul>
                 <li>
-                    <a href="#">And a submenu &hellip;</a>
+                    <a href="#">{{Lang::get('navbar.subequipos')}}</a>
                     <ul>
-                        <li><a href="#">Lorem ipsum dolor</a></li>
-                        <li><a href="#">Phasellus consequat</a></li>
-                        <li><a href="#">Magna phasellus</a></li>
-                        <li><a href="#">Etiam dolore nisl</a></li>
+                        <li><a href="#">{{Lang::get('navbar.gestion')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.arquitectura')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.civil')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.social')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.electrica')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.social')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.bioclimatica')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.diseno')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.web')}}</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Veroeros feugiat</a></li>
+                <li><a href="#">{{Lang::get('navbar.organigrama')}}</a></li>
             </ul>
         </li>
-        <li><a href="left-sidebar.html">Left Sidebar</a></li>
-        <li><a href="right-sidebar.html">Right Sidebar</a></li>
-        <li><a href="no-sidebar.html">No Sidebar</a></li>
+        <li>
+            <a href="#">{{Lang::get('navbar.solar')}}</a>
+            <ul>
+                <li><a href="#">{{Lang::get('navbar.general')}}</a></li>
+                <li><a href="#">{{Lang::get('navbar.competencias')}}</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#">{{Lang::get('navbar.patrocinadores')}}</a>
+            <ul>
+                <li><a href="#">{{Lang::get('navbar.p_proyecto')}}</a></li>
+                <li><a href="#">{{Lang::get('navbar.p_concurso')}}</a></li>
+            </ul>
+        </li>
     </ul>
 </nav>
