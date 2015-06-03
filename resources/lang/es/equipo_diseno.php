@@ -8,35 +8,35 @@
 
 return[
 
-    'equipo' => 'Comunications and Design',
+    'equipo' => 'Equipo de Comunicaciones y Dise&ntilde;o',
 
-    'motivacion' => 'We are motivated by the possibility given to us of putting into practice the tools and knowledge we have acquired throughout our lives, aiming to respond to the social responsibility that we have got towards the people who have not been able to develop under the same circumstances. We want to work for an interior design and a communications plan that shows our interest and efforts in sustainability , social equity and energy efficiency .',
+    'motivacion' => 'Nos motiva el poder poner en pr&aacute;ctica las herramientas que hemos adquirido por medio de las distintas oportunidades y actividades a lo largo de nuestra vida, con el fin de responder a la responsabilidad social que tenemos frente a las personas que no han tenido la posibilidad de desarrollarse bajo las mismas condiciones. Queremos trabajar para conseguir un dise&ntilde;o de interior y un plan de comunicaciones que evidencia nuestro inter&eacute;s y esfuerzo por la sostenibilidad, la igualdad social y la eficiencia energ&eacute;tica.',
 
-    'veronica_posada.nombre' => 'Verónica Posada',
-    'veronica_posada.cargo' => 'Group Leader - Interior Design',
+    'veronica_posada.nombre' => 'Ver&oacute;nica Posada',
+    'veronica_posada.cargo' => 'L&iacute;der de Grupo - Dise&ntilde;o de interiores',
 
     'laura_esguerra.nombre' => 'Laura Esguerra',
-    'laura_esguerra.cargo' => 'Group Leader - Project Documentation and Layout',
+    'laura_esguerra.cargo' => 'L&iacute;der de Grupo - Documentaci&oacute;n y Diagramaci&oacute;n del Proyecto',
 
     'juan_santos.nombre' => 'Juan Diego Santos',
-    'juan_santos.cargo' => 'Group Leader - Graphics and audiovisuals',
+    'juan_santos.cargo' => 'L&iacute;der de Grupo - Audiovisuales y Gr&aacute;fica',
 
     'daniela_valdes.nombre' => 'Daniela Valdes',
-    'daniela_valdes.cargo' => 'Furniture plans',
+    'daniela_valdes.cargo' => 'Encargada de planos y cortes',
 
-    'alba_olaya.nombre' => 'Alba Lucía Olaya',
-    'alba_olaya.cargo' => 'Foldable furniture design',
+    'alba_olaya.nombre' => 'Alba Luc&iacute;a Olaya',
+    'alba_olaya.cargo' => 'Dise&ntilde;o de sillas plegables y c&eacute;lulas',
 
     'manuela_isaza.nombre' => 'Manuela Isaza',
-    'manuela_isaza.cargo' => 'Group Leader - Foldable furniture mechanism design',
+    'manuela_isaza.cargo' => 'L&iacute;der de Grupo - Dise&ntilde;o de mecanismos de apertura de muebles plegables',
 
     'isabel_arango.nombre' => 'Isabel Arango',
-    'isabel_arango.cargo' => 'Team identity and Layout',
+    'isabel_arango.cargo' => 'Diagramaci&oacute;n e identidad visual del equipo',
 
-    'maria_gonzalez.nombre' => 'María Andrea Gonzalez ',
-    'maria_gonzalez.cargo' => 'Graphics and audiovisuals',
+    'maria_gonzalez.nombre' => 'Mar&iacute;a Andrea Gonzalez',
+    'maria_gonzalez.cargo' => 'Audiovisuales y Gr&aacute;fica',
 
     'andrea_peralta.nombre' => 'Andrea Peralta',
-    'andrea_peralta.cargo' => 'Team identity and Layout',
+    'andrea_peralta.cargo' => 'Diagramaci&oacute;n e identidad visual del equipo',
 
 ];

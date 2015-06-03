@@ -8,13 +8,13 @@
 
 return[
 
-    'equipo' => 'Social',
+    'equipo' => '--Social Team--',
 
     'motivacion' => 'Nuestro equipo busca generar estrategias y herramientas que generen apropiaci&oacute;n, convivencia y fortalezcan el tejido social de los vecinos y vecinas. Adicionalmente, se busca que M&aacute;s Huerto, M&aacute;s Casa comprenda y se integre a la realidad social de los sectores con d&eacute;ficit de vivienda en Am&eacute;rica Latina, proporcionando un espacio que pueda potenciar las habilidades de sus integrantes y se brinde el bienestar que necesitan.',
 
     'paola_isaza.nombre' => 'Paola Andrea Isaza',
     'paola_isaza.carrera' => 'Arquitectura y egresada de Antropolog&iacute;a',
-    'paola_isaza.cargo' => 'L&iacute;der de grupo',
+    'paola_isaza.cargo' => 'Group Leader',
 
     'maria_garcia.nombre' => 'Mar&iacute;a Alejandra Garc&iacute;a',
     'maria_garcia.carrera' => 'Administraci&oacute;n y opci&oacute;n en Antropolog&iacute;a',

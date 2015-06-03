@@ -10,6 +10,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <base href="{{url('/')}}"/>
+    <link rel="icon" type="image/png" href="{{asset('images/logomhmc.png')}}">
     <!--[if lte IE 8]><script src="{{ asset('/css/ie/html5shiv.js') }}"></script><![endif]-->
     <link rel="stylesheet" href="{{ asset('/css/main.css')  }}" />
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ asset('/css/ie8.css') }}" /><![endif]-->

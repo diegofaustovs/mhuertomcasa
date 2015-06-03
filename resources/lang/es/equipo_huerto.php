@@ -8,23 +8,23 @@
 
 return[
 
-    'equipo' => 'Orchards Team',
+    'equipo' => 'Equipo Huerto',
 
-    'motivacion' => 'The orchards are one of the cornerstones of the project “Mas huerto Mas casa”. The possibility that the future inhabitants of the project to consume food produced by them is one of the great self- sustainability samples containing the project. Similarly, orchards not only play a role of sustainability,also they are underlying a social , esthetic and spatial aspect of the project. <br> Orchards team is focused on the management of spaces for orchards in the project. The design of the gardens, the choice of plants and growing methods are the main functions of the team. Working with Design , Architecture and Civil Engineering is expected to achieve an optimal outcome for the gardens as one of the key elements of the project.',
+    'motivacion' => 'Las huertas son uno de los pilares fundamentales del proyecto ‘‘Más Huerto Más Casa’’. La posibilidad de que los futuros habitantes del proyecto puedan consumir alimentos producidos por ellos mismos es una de las grandes muestras de auto-sostenibilidad que contiene el proyecto. De igual forma, los huertos no sólo cumplen un papel de sostenibilidad. También fundamentan un aspecto social, estético y espacial del proyecto. <br> El equipo de Huertas está enfocado en el manejo de los espacios destinados para las huertas en el proyecto. El diseño de los huertos, la elección de plantas y los métodos de cultivo son las principales funciones del equipo. Trabajando a la par con Diseño, Arquitectura e Ingeniería Civil se espera lograr un resultado óptimo para las huertas como uno de los elementos primordiales del proyecto.',
 
     'miguel_cadena.nombre' => 'Miguel Cadena',
-    'miguel_cadena.cargo' => 'Leader',
+    'miguel_cadena.cargo' => 'Lider',
 
     'catalina_tamayo.nombre' => 'Catalina Tamayo',
-    'catalina_tamayo.cargo' => 'Decathlete',
+    'catalina_tamayo.cargo' => 'Decatleta',
 
     'andres_dussan.nombre' => 'Andres Mauricio Dussan',
-    'andres_dussan.cargo' => 'Decathlete',
+    'andres_dussan.cargo' => 'Decatleta',
 
     'william_rivera.nombre' => 'William Felipe Rivera',
-    'william_rivera.cargo' => 'Decathlete',
+    'william_rivera.cargo' => 'Decatleta',
 
     'julian_prieto.nombre' => 'Julian Prieto',
-    'julian_prieto.cargo' => 'Decathlete',
+    'julian_prieto.cargo' => 'Decatleta',
 
 ];
