@@ -18,8 +18,13 @@ return[
     'andres_villamil.nombre' => 'Andr&eacute;s Enrique Villamil Prieto',
     'andres.villamil.cargo' => 'Contacto Instrumentaci&oacute;n',
 
+<<<<<<< HEAD
     'oscar_berrio.nombre' => '&oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
     'oscar_berrio.cargo' => 'Decatleta',
+=======
+    'oscar_berrio.nombre' => '&Oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
+    'oscar_berrio.cargo' => 'Decathlete',
+>>>>>>> 0be78953a5304e83b91a527580e0ae51a57bae4b
 
     'maria_marin.nombre' => 'Mar&iacute;a Camila Mar&iacute;n Camargo',
     'maria_marin.cargo' => 'Decatleta',

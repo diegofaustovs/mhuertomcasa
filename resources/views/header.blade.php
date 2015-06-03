@@ -1,7 +1,7 @@
 <!-- Nav -->
 <nav id="nav">
     <ul>
-        <li><a href="index.html">{{Lang::get('navbar.inicio')}}</a></li>
+        <li><a href="/">{{Lang::get('navbar.inicio')}}</a></li>
         <li>
             <a href="#">{{Lang::get('navbar.noticias')}}</a>
             <ul>
@@ -14,7 +14,7 @@
                 <li>
                     <a href="#">{{Lang::get('navbar.subequipos')}}</a>
                     <ul>
-                        <li><a href="#">{{Lang::get('navbar.gestion')}}</a></li>
+                        <li><a href='{{route('management')}}'>{{Lang::get('navbar.gestion')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.arquitectura')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.civil')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.social')}}</a></li>
