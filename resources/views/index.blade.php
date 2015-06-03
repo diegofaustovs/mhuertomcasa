@@ -13,7 +13,8 @@
     <!--[if lte IE 8]><script src="{{ asset('/css/ie/html5shiv.js') }}"></script><![endif]-->
     <link rel="stylesheet" href="{{ asset('/css/main.css')  }}" />
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ asset('/css/ie8.css') }}" /><![endif]-->
-</head>
+    <link rel="stylesheet" href="{{ asset('/css/important.css')  }}" />
+    <link href='http://fonts.googleapis.com/css?family=Lato:300&subset=latin,latin-ext' rel='stylesheet' type='text/css'></head>
 
 @yield('content')
 

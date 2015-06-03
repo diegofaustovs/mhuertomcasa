@@ -2,13 +2,11 @@
 @extends('index')
 
 @section('content')
+    <link rel="stylesheet" href="{{ asset('/css/header.css')  }}" />
 
     @include('header')
 
-
-
     <div class="wrapper style1">
-
         <section class="carousel">
             <div class="reel">
 
@@ -94,6 +92,5 @@
 
             </div>
         </section>
-
     </div>
-@endsection('content')
+    @endsection('content')
