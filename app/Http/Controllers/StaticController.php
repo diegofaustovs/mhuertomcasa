@@ -22,4 +22,9 @@ class StaticController extends Controller {
         return view('home');
     }
 
+    public function management()
+    {
+        return view('teams/gestion');
+    }
+
 }

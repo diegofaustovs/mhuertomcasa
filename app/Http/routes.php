@@ -13,9 +13,9 @@
 
 Route::get('/', 'StaticController@index');
 
+Route::get('/management', ['as'=>'management', 'uses'=>'StaticController@management']);
+
+
+
 //Route::get('home', 'HomeController@index');
 
-Route::controllers([
-	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
-]);
