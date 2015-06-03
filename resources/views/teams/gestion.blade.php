@@ -2,7 +2,6 @@
 @extends('index')
 
 @section('content')
-    <link rel="stylesheet" href="{{ asset('/css/header.css')  }}" />
 
     @include('header')
 
