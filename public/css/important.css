@@ -13,6 +13,22 @@ body{
 }
 
 #nav{
-    background-color: rgb(128,182,65);
+    background: rgb(128, 182, 65) url(./images/Navbar.png);
     color: #fff;
+    height: 88px;
+}
+
+#nav ul{
+    line-height: 1.5em;
+    border-left: none;
+    border-right:none;
+}
+#nav ul:before{
+    border-top: none;
+    border-bottom: none;
+}
+
+#nav ul:after{
+    border-top: none;
+    border-bottom: none;
 }
