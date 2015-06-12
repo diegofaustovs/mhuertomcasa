@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => '',
+    'equipo' => 'MANAGEMENT TEAM',
 
     'motivacion' => '',
 

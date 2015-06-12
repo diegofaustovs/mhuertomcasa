@@ -16,10 +16,11 @@ body{
     background: rgb(128, 182, 65) url(./images/Navbar.png);
     color: #fff;
     height: 88px;
+    padding: 2em 0 1.5em 0;
 }
 
 #nav ul{
-    line-height: 1.5em;
+    line-height: 0.1em;
     border-left: none;
     border-right:none;
 }
@@ -31,4 +32,27 @@ body{
 #nav ul:after{
     border-top: none;
     border-bottom: none;
+}
+
+#nav ul li.opener.active.ul{
+    margin: 0px;
+    z-index: 2;
+}
+#titulo{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 700;
+}
+#titulo h2{
+    color: #039c4c !important;
+}
+
+#footer{
+    background-color: #222f20;
+}
+
+.carousel .backward:before, .carousel .forward:before{
+    background-color: #1e481b;
+    opacity: 0.7;
 }
