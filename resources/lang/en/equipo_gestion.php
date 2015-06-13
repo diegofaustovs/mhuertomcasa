@@ -29,4 +29,5 @@ return[
 
     'juan_sanchez.nombre' => 'Juan Camilo S&aacutenchez',
     'juan_sanchez.cargo' => 'Benchmarking and documentation leader'
+
 ];
