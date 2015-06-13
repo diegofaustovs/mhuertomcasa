@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5db52ffc-13d7-417d-9f28-f5396b7ced0a" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/equipo_gestion.php" afterPath="$PROJECT_DIR$/resources/lang/en/equipo_gestion.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/es/equipo_gestion.php" afterPath="$PROJECT_DIR$/resources/lang/es/equipo_gestion.php" />
     </list>
     <ignored path="mhmc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -367,7 +365,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434216136165</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="El mismo commit de antes pero sin el workspace">
+      <created>1434217243847</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1434217243847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -439,7 +443,8 @@
     <MESSAGE value="Interfaz y tipografías" />
     <MESSAGE value="Navbar completamente lista, página de Gestión en progreso" />
     <MESSAGE value="Lista la info de Gestion y modificaciones a la interfaz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista la info de Gestion y modificaciones a la interfaz" />
+    <MESSAGE value="El mismo commit de antes pero sin el workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="El mismo commit de antes pero sin el workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
