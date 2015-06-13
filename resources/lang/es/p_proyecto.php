@@ -1,7 +1,7 @@
 <?php
 return[
 
-    'header' => 'Nuestros Patrocinadores',
+    'header' => 'NUESTROS PATROCINADORES',
     'description' => 'Nuestro equipo tiene el apoyo de dos grandes compañias al igual que de dos grandes instituciones educativas',
     'codensa.name' => 'Codena, Emgesa y Enel group',
     'codensa.description' => 'Es una de las principales empresas en distribución y venta de electricidad en Colombia y

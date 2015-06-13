@@ -1,7 +1,7 @@
 <?php
 return[
 
-    'header' => 'Our Sponsors',
+    'header' => 'OUR SPONSORS',
     'description' => 'The team has the support of two big companies as well as two education institutions',
     'codensa.name' => 'Codena, Emgesa and Enel group',
     'codensa.description' => 'It is the one of the biggest companies in distribution and sale of electricity

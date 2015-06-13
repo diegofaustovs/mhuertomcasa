@@ -16,7 +16,7 @@
 
             <section id="features" class="container special">
                 <header>
-                    <h2>{{Lang::get('p_proyecto.header')}}</h2>
+                    <div id="titulo"><h2>{{Lang::get('p_proyecto.header')}}</h2></div>
                     <p>{{Lang::get('p_proyecto.description')}}</p>
                 </header>
                 <div class="row">
