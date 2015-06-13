@@ -13,15 +13,15 @@ return[
     'proyecto' => 'Project',
     'equipo' => 'Team',
     'subequipos' => 'Subteams',
-    'organigrama' => 'Organization chart',
+    'organigrama' => 'Organization Chart',
     'solar' => 'Solar Decathlon',
     'patrocinadores' => 'Sponsors',
-    'todas_noticias' => 'All news',
-    'prensa' => 'Press releases',
-    'general' => 'General information',
+    'todas_noticias' => 'All News',
+    'prensa' => 'Press Releases',
+    'general' => 'General Information',
     'competencias' => 'Contests',
-    'p_proyecto' => 'Project sponsors',
-    'p_concurso' => 'Contest sponsors',
+    'p_proyecto' => 'Project Sponsors',
+    'p_concurso' => 'Contest Sponsors',
 
     /** Subequipos */
 

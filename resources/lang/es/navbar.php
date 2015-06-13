@@ -18,10 +18,10 @@ return[
     'patrocinadores' => 'Patrocinadores',
     'todas_noticias' => 'Todas las noticias',
     'prensa' => 'Comunicados de prensa',
-    'general' => 'Informaci&oacute;n general',
+    'general' => 'Informaci&oacute;n General',
     'competencias' => 'Competencias',
-    'p_proyecto' => 'Patrocinadores del proyecto',
-    'p_concurso' => 'Patrocinadores del concurso',
+    'p_proyecto' => 'Patrocinadores del Proyecto',
+    'p_concurso' => 'Patrocinadores del Concurso',
 
     /** Subequipos */
 
