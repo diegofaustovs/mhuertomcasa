@@ -25,13 +25,14 @@ return[
 
     /** Subequipos */
 
-    'web' => 'Web',
+    'web' => 'Dise&ntilde;o Web',
     'arquitectura' => 'Arquitectura',
     'bioclimatica' => 'Bioclim&aacute;tica',
     'social' => 'Social',
     'gestion' => 'Gesti&oacute;n',
-    'electrica' => 'El&eacute;ctrica',
+    'electrica' => 'Dise&ntilde;o El&eacutectrico',
     'diseno' => 'Dise&ntilde;o',
-    'civil' => 'Ingenier&iacute;a Civil'
+    'civil' => 'Ingenier&iacute;a Civil',
+    'huerto' => 'Huerto'
 
 ];

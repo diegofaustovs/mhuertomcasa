@@ -27,4 +27,9 @@ class StaticController extends Controller {
         return view('teams/gestion');
     }
 
+    public function projectSponsors()
+    {
+        return view('sponsors/project_sponsors');
+    }
+
 }

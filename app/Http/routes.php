@@ -15,7 +15,7 @@ Route::get('/', 'StaticController@index');
 
 Route::get('/management', ['as'=>'management', 'uses'=>'StaticController@management']);
 
-
+Route::get('/project_sponsors', ['as'=>'project_sponsors', 'uses'=>'StaticController@projectSponsors']);
 
 //Route::get('home', 'HomeController@index');
 

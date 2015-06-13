@@ -19,7 +19,7 @@
                         <li><a href="#">{{Lang::get('navbar.civil')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.social')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.electrica')}}</a></li>
-                        <li><a href="#">{{Lang::get('navbar.social')}}</a></li>
+                        <li><a href="#">{{Lang::get('navbar.huerto')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.bioclimatica')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.diseno')}}</a></li>
                         <li><a href="#">{{Lang::get('navbar.web')}}</a></li>
@@ -38,7 +38,7 @@
         <li>
             <a href="#">{{Lang::get('navbar.patrocinadores')}}</a>
             <ul>
-                <li><a href="#">{{Lang::get('navbar.p_proyecto')}}</a></li>
+                <li><a href='{{route('project_sponsors')}}'>{{Lang::get('navbar.p_proyecto')}}</a></li>
                 <li><a href="#">{{Lang::get('navbar.p_concurso')}}</a></li>
             </ul>
         </li>

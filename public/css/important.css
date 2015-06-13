@@ -1,13 +1,62 @@
 i.icon.fa-angle-right.fa-fw{
-    position: relative !important;
-    left:70px !important;
-    top:2px !important;
+    position: relative;
+    left:70px;
+    top:2px;
 }
 
 a{
-    cursor: pointer !important;
+    cursor: pointer;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
 }
 
 #nav{
+    background: rgb(128, 182, 65) url(./images/Navbar.png);
+    color: #fff;
+    height: 88px;
+    padding: 2em 0 1.5em 0;
+}
 
+#nav ul{
+    line-height: 0.1em;
+    border-left: none;
+    border-right:none;
+}
+#nav ul:before{
+    border-top: none;
+    border-bottom: none;
+}
+
+#nav ul:after{
+    border-top: none;
+    border-bottom: none;
+}
+
+#nav ul li.opener.active.ul{
+    margin: 0px;
+    z-index: 2;
+}
+#titulo{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 700;
+}
+#titulo h2{
+    color: #1A7E45 !important;
+}
+
+#footer{
+    background-color: #1D4C24;
+}
+
+.carousel .backward:before, .carousel .forward:before{
+    background-color: #1A7E45;
+    opacity: 0.7;
+}
+
+.button{
+    background:#1A7E45;
 }
