@@ -45,14 +45,18 @@ body{
     font-weight: 700;
 }
 #titulo h2{
-    color: #039c4c !important;
+    color: #1A7E45 !important;
 }
 
 #footer{
-    background-color: #222f20;
+    background-color: #1D4C24;
 }
 
 .carousel .backward:before, .carousel .forward:before{
-    background-color: #1e481b;
+    background-color: #1A7E45;
     opacity: 0.7;
+}
+
+.button{
+    background:#1A7E45;
 }
