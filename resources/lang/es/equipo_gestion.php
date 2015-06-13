@@ -28,6 +28,5 @@ return[
     'jorge_navia.cargo' => 'L&iacuteder de &aacuterea financiera y log&iacutestica general de procesos',
 
     'juan_sanchez.nombre' => 'Juan Camilo S&aacutenchez',
-    'juan_sanchez.cargo' => 'L&iacuteder de benchmarking y documentaci&oacuten',
-
+    'juan_sanchez.cargo' => 'L&iacuteder de benchmarking y documentaci&oacuten'
 ];

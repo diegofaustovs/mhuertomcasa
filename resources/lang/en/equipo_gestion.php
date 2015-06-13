@@ -28,6 +28,5 @@ return[
     'jorge_navia.cargo' => 'Financial area and overall logistics process leader',
 
     'juan_sanchez.nombre' => 'Juan Camilo S&aacutenchez',
-    'juan_sanchez.cargo' => 'Benchmarking and documentation leader',
-
+    'juan_sanchez.cargo' => 'Benchmarking and documentation leader'
 ];
