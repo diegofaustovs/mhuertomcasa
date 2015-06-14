@@ -8,9 +8,9 @@
 
 return[
 
-    'equipo' => 'Comunications and Design Team',
+    'equipo' => 'COMMUNICATIONS AND DESIGN TEAM',
 
-    'motivacion' => 'We are motivated by the possibility given to us of putting into practice the tools and knowledge we have acquired throughout our lives, aiming to respond to the social responsibility that we have got towards the people who have not been able to develop under the same circumstances. We want to work for an interior design and a communications plan that shows our interest and efforts in sustainability , social equity and energy efficiency .',
+    'motivacion' => 'We are motivated by the possibility given to us of putting into practice the tools and knowledge we have acquired throughout our lives, aiming to respond to the social responsibility that we have got towards the people who have not been able to develop under the same circumstances. We want to work for an interior design and a communications plan that shows our interest and efforts in sustainability , social equity and energy efficiency.',
 
     'veronica_posada.nombre' => 'Ver&oacute;nica Posada',
     'veronica_posada.cargo' => 'Group Leader - Interior Design',
@@ -21,7 +21,7 @@ return[
     'juan_santos.nombre' => 'Juan Diego Santos',
     'juan_santos.cargo' => 'Group Leader - Graphics and audiovisuals',
 
-    'daniela_valdes.nombre' => 'Daniela Valdes',
+    'daniela_valdes.nombre' => 'Daniela Vald&eacutes',
     'daniela_valdes.cargo' => 'Furniture plans',
 
     'alba_olaya.nombre' => 'Alba Luc&iacute;a Olaya',
@@ -33,7 +33,7 @@ return[
     'isabel_arango.nombre' => 'Isabel Arango',
     'isabel_arango.cargo' => 'Team identity and Layout',
 
-    'maria_gonzalez.nombre' => 'Mar&iacute;a Andrea Gonzalez ',
+    'maria_gonzalez.nombre' => 'Mar&iacute;a Andrea Gonz&aacutelez ',
     'maria_gonzalez.cargo' => 'Graphics and audiovisuals',
 
     'andrea_peralta.nombre' => 'Andrea Peralta',
