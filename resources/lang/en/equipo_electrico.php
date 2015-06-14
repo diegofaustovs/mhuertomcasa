@@ -18,7 +18,7 @@ return[
     'andres_villamil.nombre' => 'Andr&eacute;s Enrique Villamil Prieto',
     'andres.villamil.cargo' => 'Instrumentation Contact',
 
-    'oscar_berrio.nombre' => '&oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
+    'oscar_berrio.nombre' => '&Oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
     'oscar_berrio.cargo' => 'Decathlete',
 
     'maria_marin.nombre' => 'Mar&iacute;a Camila Mar&iacute;n Camargo',
