@@ -12,6 +12,6 @@ return[
     'diego_vanegas.nombre' => 'Diego Fausto Vanegas',
     'diego_vanegas.cargo' => 'Webpage development and technological support',
 
-    'sebastian_sierra.nombre' => 'Sebasti&aacuten Sierra',
+    'sebastian_sierra.nombre' => 'Sebasti&aacute;n Sierra',
     'sebastian_sierra.cargo' => 'Webpage development and API management'
 ];

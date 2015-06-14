@@ -21,7 +21,7 @@ return[
     'juan_santos.nombre' => 'Juan Diego Santos',
     'juan_santos.cargo' => 'L&iacute;der de Grupo - Audiovisuales y Gr&aacute;fica',
 
-    'daniela_valdes.nombre' => 'Daniela Vald&eacutes',
+    'daniela_valdes.nombre' => 'Daniela Vald&eacute;s',
     'daniela_valdes.cargo' => 'Encargada de planos y cortes',
 
     'alba_olaya.nombre' => 'Alba Luc&iacute;a Olaya',

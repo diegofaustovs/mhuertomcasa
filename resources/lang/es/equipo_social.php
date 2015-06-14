@@ -28,6 +28,6 @@ return[
     'maria_sanchez.cargo' => 'An&aacute;lisis econ&oacute;mico',
 
     'lina_hoyos.nombre' => 'Lina Mar&iacute;a Hoyos',
-    'lina_hoyos.cargo' => 'An&aacutelisis de poblaci&oacute;n'
+    'lina_hoyos.cargo' => 'An&aacute;lisis de poblaci&oacute;n'
 
 ];
