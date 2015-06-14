@@ -11,6 +11,8 @@
 |
 */
 
+Route::get('/news', ['as'=>'news', 'uses'=>'NewsController@showAllNews']);
+
 Route::get('/', 'StaticController@index');
 
 Route::get('/management', ['as'=>'management', 'uses'=>'StaticController@management']);

@@ -5,7 +5,7 @@
         <li>
             <a href="#">{{Lang::get('navbar.noticias')}}</a>
             <ul>
-                <li><a href="#">{{Lang::get('navbar.todas_noticias')}}</a></li>
+                <li><a href='{{route('news')}}'>{{Lang::get('navbar.todas_noticias')}}</a></li>
                 <li><a href="#">{{Lang::get('navbar.prensa')}}</a></li>
             </ul>
         <li>
