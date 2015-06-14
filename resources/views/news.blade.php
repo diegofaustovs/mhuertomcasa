@@ -15,6 +15,13 @@
         </div>
         <!-- Features -->
 
+        <div class="row">
+
+        <div class="2u 12(mobile)" id="sidebar">
+
+        </div>
+
+        <div class="8u 12(mobile)">
 
         @foreach($items as $item)
             <div class="wrapper style1">
@@ -31,6 +38,10 @@
                 </div>
             </div>
         @endforeach
+
+        </div>
+
+        </div>
 
 
     </div>
