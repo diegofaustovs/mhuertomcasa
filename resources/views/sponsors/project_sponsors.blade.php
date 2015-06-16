@@ -15,71 +15,62 @@
         <div class="wrapper style1">
 
             <section id="features" class="container special">
+
+
+
+
                 <header>
                     <div id="titulo"><h2>{{Lang::get('p_proyecto.header')}}</h2></div>
-                    <p>{{Lang::get('p_proyecto.description')}}</p>
+                    <h3 id="subtitle">{{Lang::get('p_proyecto.description')}}</h3>
                 </header>
 
+
                 <div class="row">
-                    <div class="6u 12(mobile)">
-                        <a href="#" class="image featured"><img src="images/emgesa_codensa_enel.png" alt="" /></a>
+                    <div class="1u 12(mobile)"></div>
+
+                    <div class="5u 12(mobile)">
+                        <a href="#" class="image left"><img src="images/emgesa_codensa_enel.png" alt="" /></a>
                     </div>
-                    <div class="6u 12(mobile)">
+
+                    <div class="5u 12(mobile)">
                         <header>
-                            <h3>{{Lang::get('p_proyecto.codensa.name')}}</h3>
+                            <h4>{{Lang::get('p_proyecto.codensa.name')}}</h4>
                         </header>
                         <p>{{Lang::get('p_proyecto.codensa.description')}}</p>
                     </div>
+
                 </div>
 
                 <div class="row">
-                    <div class="6u 12(mobile)">
+
+                    <div class="1u 12(mobile)"></div>
+                    <div class="5u 12(mobile)">
                         <header>
-                            <h3><a href="#">Apiros</a></h3>
+                            <h4><a href="#">Apiros</a></h4>
                         </header>
-                        <p>{{Lang::get('p_proyecto.apiros.description')}}</p>
+                        <p class="text left">{{Lang::get('p_proyecto.apiros.description')}}</p>
                     </div>
-                    <div class="6u 12(mobile)">
+                    <div class="5u 12(mobile)">
                         <a href="#" class="image featured"><img src="images/apiros.png" alt="" /></a>
                     </div>
+
                 </div>
 
                 <div class="row">
-                    <div class="6u 12(mobile)">
-                        <a href="#" class="image featured"><img src="images/innovandes.jpg" alt="" /></a>
+
+                    <div class="1u 12(mobile)"></div>
+                    <div class="5u 12(mobile)">
+                        <a href="#" class="image left"><img src="images/innovandes.jpg" alt="" /></a>
                     </div>
-                    <div class="6u 12(mobile)">
+                    <div class="5u 12(mobile)">
                         <header>
-                            <h3><a href="#">Innovandes</a></h3>
+                            <h4><a href="#">Innovandes</a></h4>
                         </header>
                         <p>{{Lang::get('p_proyecto.innovandes.description')}}</p>
                     </div>
-                </div>
-
-                <div class="row">
-                    <article class="4u 12u(mobile) special">
-                        <a href="#" class="image featured"><img src="images/emgesa_codensa_enel.png" alt="" /></a>
-                        <header>
-                            <h3>{{Lang::get('p_proyecto.codensa.name')}}</h3>
-                        </header>
-                        <p>{{Lang::get('p_proyecto.codensa.description')}}</p>
-                    </article>
-                    <article class="4u 12u(mobile) special">
-                        <a href="#" class="image featured"><img src="images/apiros.png" alt="" /></a>
-                        <header>
-                            <h3><a href="#">Apiros</a></h3>
-                        </header>
-                        <p>{{Lang::get('p_proyecto.apiros.description')}}</p>
-                    </article>
-                    <article class="4u 12u(mobile) special">
-                        <a href="#" class="image featured"><img src="images/innovandes.jpg" alt="" /></a>
-                        <header>
-                            <h3><a href="#">Innovandes</a></h3>
-                        </header>
-                        <p>{{Lang::get('p_proyecto.innovandes.description')}}</p>
-                    </article>
 
                 </div>
+
             </section>
 
         </div>

@@ -2,7 +2,7 @@
 return[
 
     'header' => 'OUR SPONSORS',
-    'description' => 'The team has the support of two big companies as well as two education institutions',
+    'description' => 'The team has the support of two big companies as well as the Universidad de los Andes',
     'codensa.name' => 'Codena, Emgesa and Enel group',
     'codensa.description' => 'It is the one of the biggest companies in distribution and sale of electricity
                                 in Colombia, it is a leading company, always exceeding customer expectations,

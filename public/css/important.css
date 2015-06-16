@@ -69,6 +69,19 @@ body{
     text-align: center;
 }
 
+h3#subtitle {
+    margin: 1em 0 2em 0;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+.text.left {
+    float: left;
+    margin: 0 2em 2em 0;
+}
+
 .carousel .forward:hover:before, .carousel .backward:hover:before {
     background-color: rgb(128, 182, 65);
 }
