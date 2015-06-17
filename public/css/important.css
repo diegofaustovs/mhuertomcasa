@@ -69,6 +69,12 @@ body{
     text-align: center;
 }
 
+#integrantes ul{
+    text-justify: auto;
+    margin: 1em 1em 1em 1em;
+    list-style: cjk-ideographic;
+}
+
 h3#subtitle {
     margin: 1em 0 2em 0;
 }
