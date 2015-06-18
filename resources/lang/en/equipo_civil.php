@@ -8,6 +8,7 @@ return[
 
     'deca_1.nombre' => 'Miguel Cadena',
     'deca_1.cargo' => 'Leader',
+    'deca_1.foto' => '',
 
     'nintegrantes' => '1',
 ];

@@ -14,18 +14,23 @@ return[
 
     'deca_1.nombre' => 'Miguel Cadena',
     'deca_1.cargo' => 'Leader',
+    'deca_1.foto' => '',
 
     'deca_2.nombre' => 'Catalina Tamayo',
     'deca_2.cargo' => 'Decathlete',
+    'deca_2.foto' => '',
 
     'deca_3.nombre' => 'Andr&eacute;s Mauricio Dussan',
     'deca_3.cargo' => 'Decathlete',
+    'deca_3.foto' => '',
 
     'deca_4.nombre' => 'William Felipe Rivera',
     'deca_4.cargo' => 'Decathlete',
+    'deca_4.foto' => '',
 
     'deca_5.nombre' => 'Juli&aacute;n Prieto',
     'deca_5.cargo' => 'Decathlete',
+    'deca_5.foto' => '',
 
     'nintegrantes' => '5'
 

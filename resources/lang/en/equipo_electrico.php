@@ -14,24 +14,31 @@ return[
 
     'deca_1.nombre' => 'Sergio Zambrano Perilla',
     'deca_1.cargo' => 'Electrical Engineer',
+    'deca_1.foto' => '',
 
     'deca_2.nombre' => 'Andr&eacute;s Enrique Villamil Prieto',
     'deca_2.cargo' => 'Instrumentation Contact',
+    'deca_2.foto' => '',
 
     'deca_3.nombre' => '&Oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
     'deca_3.cargo' => 'Decathlete',
+    'deca_3.foto' => '',
 
     'deca_4.nombre' => 'Mar&iacute;a Camila Mar&iacute;n Camargo',
     'deca_4.cargo' => 'Decathlete',
+    'deca_4.foto' => '',
 
     'deca_5.nombre' => 'Cristi&aacute;n Camilo Zambrano Rinc&oacute;n',
     'deca_5.cargo' => 'Decathlete',
+    'deca_5.foto' => '',
 
     'deca_6.nombre' => 'Mar&iacute;a Paula Gonz&aacute;lez Rodr&iacute;guez',
     'deca_6.cargo' => 'Decathlete',
+    'deca_6.foto' => '',
 
     'deca_7.nombre' => 'Daniel Camilo Arias Melo',
     'deca_7.cargo' => 'Decathlete',
+    'deca_7.foto' => '',
 
     'nintegrantes' => '7'
 ];

@@ -14,21 +14,27 @@ return[
 
     'deca_1.nombre' => 'Alejandro Echeverry',
     'deca_1.cargo' => 'General project coordinator',
+    'deca_1.foto' => '',
 
     'deca_2.nombre' => 'Mar&iacute;a Alejandra Garc&iacute;a',
     'deca_2.cargo' => 'Human resources and documentation leader',
+    'deca_2.foto' => '',
 
     'deca_3.nombre' => 'Edgar Chamorro',
     'deca_3.cargo' => 'Construction logistics leader',
+    'deca_3.foto' => '',
 
     'deca_4.nombre' => 'Tom&aacute;s Mej&iacute;a',
     'deca_4.cargo' => 'Shopping area leader',
+    'deca_4.foto' => '',
 
     'deca_5.nombre' => 'Jorge Navia',
     'deca_5.cargo' => 'Financial area and overall logistics process leader',
+    'deca_5.foto' => '',
 
     'deca_6.nombre' => 'Juan Camilo S&aacute;nchez',
     'deca_6.cargo' => 'Benchmarking and documentation leader',
+    'deca_6.foto' => '',
 
     'nintegrantes' => '6'
 

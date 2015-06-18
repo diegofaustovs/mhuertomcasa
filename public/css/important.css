@@ -16,7 +16,8 @@ body{
     color: #fff;
     height: 88px;
     padding: 2em 0 1.5em 0;
-    background: rgba(11, 11, 11, 0) url(./images/NavbarWeb2-08.png);
+    background: rgba(11, 11, 11, 0) url(./images/NavbarWeb2-08.png) no-repeat;
+    background-size: 100%;
 }
 
 #nav ul{
@@ -50,7 +51,8 @@ body{
 
 #footer{
     padding: 2em 2em 1em 2em;
-    background-image: url(../images/Footer3.png);
+    background: url(../images/Footer3.png) no-repeat;
+    background-size: 100%;
 }
 
 .carousel .backward:before, .carousel .forward:before{
@@ -105,6 +107,20 @@ h4 {
 
 .carousel{
     margin-top: 40px!important;
+}
+
+.circular {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+.circular img{
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
 }
 
 .contact{

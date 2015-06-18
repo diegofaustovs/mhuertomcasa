@@ -12,7 +12,7 @@
                 <header>
                     <h1>+Huerto <br> +Casa</h1>
                     <hr />
-                    <p>HARVESTING ENCOUNTERS, KNITTING SOCIETYgit a</p>
+                    <p>HARVESTING ENCOUNTERS, KNITTING SOCIETY</p>
                 </header>
                 <footer>
                     <a href="#banner" class="button circled scrolly">Start</a>
