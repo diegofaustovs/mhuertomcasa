@@ -25,18 +25,18 @@
                         <li><a href="{{route('web')}}">{{Lang::get('navbar.web')}}</a></li>
                     </ul>
                 </li>
-                <li><a href="#">{{Lang::get('navbar.organigrama')}}</a></li>
+                <li><a href="{{route('org_chart')}}">{{Lang::get('navbar.organigrama')}}</a></li>
             </ul>
         </li>
         <li>
-            <a href="#">{{Lang::get('navbar.solar')}}</a>
+            <a href="">{{Lang::get('navbar.solar')}}</a>
             <ul>
                 <li><a href="#">{{Lang::get('navbar.general')}}</a></li>
                 <li><a href="#">{{Lang::get('navbar.competencias')}}</a></li>
             </ul>
         </li>
         <li>
-            <a href="#">{{Lang::get('navbar.patrocinadores')}}</a>
+            <a href="">{{Lang::get('navbar.patrocinadores')}}</a>
             <ul>
                 <li><a href='{{route('project_sponsors')}}'>{{Lang::get('navbar.p_proyecto')}}</a></li>
                 <li><a href="#">{{Lang::get('navbar.p_concurso')}}</a></li>
