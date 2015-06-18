@@ -28,8 +28,8 @@
                         <div class="8u 12(mobile)">
 
                             <article class="special">
-                                <div id="titulo">
-                                    <h2>{{ $item->get_title() }}</h2>
+                                <div class="titulo">
+                                    <h2 class="titulo">{{ $item->get_title() }}</h2>
                                 </div>
                                 <br>
                                 {!! $item->get_content() !!}
