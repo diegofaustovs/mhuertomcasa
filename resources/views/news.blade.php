@@ -21,7 +21,7 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="2u 12(mobile)" id="sidebar">
+                        <div class="2u 12(mobile)">
 
                         </div>
 
