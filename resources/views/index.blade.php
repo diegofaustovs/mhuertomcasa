@@ -23,13 +23,11 @@
 <div id="footer">
     <div class="container">
         <div class="row">
+            <div class="12u">
 
                 <!-- Contact -->
                 <section class="contact">
-                    <header>
-                        <h3>Nisl turpis nascetur interdum?</h3>
-                    </header>
-                    <p>Urna nisl non quis interdum mus ornare ridiculus egestas ridiculus lobortis vivamus tempor aliquet.</p>
+
                     <ul class="icons">
                         <li><a href="https://twitter.com/solarduniandes" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
                         <li><a href="https://www.facebook.com/pages/Solar-Decathlon-Uniandes-2015-M%C3%A1s-Huerto-M%C3%A1s-Casa/723414381087541" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
