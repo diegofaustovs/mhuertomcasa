@@ -105,3 +105,17 @@ h4 {
 .carousel{
     margin-top: 40px!important;
 }
+
+.circular {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+.circular img{
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+}

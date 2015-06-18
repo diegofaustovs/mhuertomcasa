@@ -14,27 +14,35 @@ return [
 
     'deca_1.nombre' => 'C&eacute;sar Agudelo',
     'deca_1.cargo' => 'EnergyPlus simulations, advice and support for the team',
+    'deca_1.foto' => '',
 
     'deca_2.nombre' => 'Alejandro Echeverry',
     'deca_2.cargo' => 'Mechanisms and water heating system',
+    'deca_2.foto' => '',
 
     'deca_3.nombre' => 'Giancarlo Storino',
     'deca_3.cargo' => 'Solar chimneys and ventilation',
+    'deca_3.foto' => '',
 
     'deca_4.nombre' => 'Hern&aacute;n D&iacute;az',
     'deca_4.cargo' => 'Thermal comfort, reflective ceiling',
+    'deca_4.foto' => '',
 
     'deca_5.nombre' => 'Ana Mar&iacute;a Castillo',
     'deca_5.cargo' => 'Thermal comfort, windows and grilles',
+    'deca_5.foto' => '',
 
     'deca_6.nombre' => 'Mar&iacute;a Paula Noriega',
     'deca_6.cargo' => 'Ventilation and lighting',
+    'deca_6.foto' => '',
 
     'deca_7.nombre' => 'Carlos Hurtado',
     'deca_7.cargo' => 'Acoustic analysis and insulation.',
+    'deca_7.foto' => '',
 
     'deca_8.nombre' => 'Estefan&iacute;a Rojas',
     'deca_8.cargo' => 'Microclimate and thermal comfort',
+    'deca_8.foto' => '',
 
     'nintegrantes' => '8'
 
