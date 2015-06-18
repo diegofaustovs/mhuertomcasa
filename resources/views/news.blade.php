@@ -26,11 +26,12 @@
                         </div>
 
                         <div class="8u 12(mobile)">
-                            <div id="titulo">
-                                <h2>{{ $item->get_title() }}</h2>
-                            </div>
-                            <br>
-                            <article id="main" class="special">
+
+                            <article class="special">
+                                <div id="titulo">
+                                    <h2>{{ $item->get_title() }}</h2>
+                                </div>
+                                <br>
                                 {!! $item->get_content() !!}
                             </article>
                             <i>{{$item->get_date('j F Y')}}</i>
