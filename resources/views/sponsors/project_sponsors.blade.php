@@ -77,6 +77,4 @@
 
     </div>
 
-    </body>
-
 @endsection('content')

@@ -49,6 +49,14 @@ body{
     color: #1A7E45 !important;
 }
 
+.titulo {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 700;
+    color: #1A7E45;
+}
+
 #footer{
     padding: 2em 2em 1em 2em;
     background: url(../images/Footer3.png) no-repeat;
