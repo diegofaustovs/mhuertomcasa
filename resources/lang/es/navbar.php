@@ -30,7 +30,7 @@ return[
     'bioclimatica' => 'Bioclim&aacute;tica',
     'social' => 'Social',
     'gestion' => 'Gesti&oacute;n',
-    'electrica' => 'Dise&ntilde;o El&eacutectrico',
+    'electrica' => 'Dise&ntilde;o El&eacute;ctrico',
     'diseno' => 'Dise&ntilde;o',
     'civil' => 'Ingenier&iacute;a Civil',
     'huerto' => 'Huerto'
