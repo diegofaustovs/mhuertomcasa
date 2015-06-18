@@ -23,7 +23,7 @@ class NewsController extends Controller {
         $this->feed->enable_cache(false);
         //$this->feed->set_cache_location(storage_path().'/framework/cache');
         $this->feed->strip_htmltags(false);
-        $this->feed->strip_attributes(false);
+        $this->feed->strip_attributes(['imageanchor']);
         date_default_timezone_set ( 'America/Bogota');
     }
 
