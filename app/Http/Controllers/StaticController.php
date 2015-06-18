@@ -27,6 +27,46 @@ class StaticController extends Controller {
         return view('teams/gestion');
     }
 
+    public function architecture()
+    {
+        return view('teams/arquitectura');
+    }
+
+    public function civil()
+    {
+        return view('teams/civil');
+    }
+
+    public function social()
+    {
+        return view('teams/social');
+    }
+
+    public function electric()
+    {
+        return view('teams/electrica');
+    }
+
+    public function orchards()
+    {
+        return view('teams/huerto');
+    }
+
+    public function bioclimatics()
+    {
+        return view('teams/bioclimatica');
+    }
+
+    public function design()
+    {
+        return view('teams/diseno');
+    }
+
+    public function web()
+    {
+        return view('teams/web');
+    }
+
     public function projectSponsors()
     {
         return view('sponsors/project_sponsors');

@@ -12,22 +12,24 @@ return[
 
     'motivacion' => 'Nuestra motivaci&oacute;n como equipo de gesti&oacute;n es facilitar los recursos a las dema&aacute;s areas para llevar a cabo este proyecto de la manera m&aacute;s agradable, segura y eficiente posible.',
 
-    'alejandro_echeverry.nombre' => 'Alejandro Echeverry',
-    'alejandro_echeverry.cargo' => 'Cordinador general del proyecto',
+    'deca_1.nombre' => 'Alejandro Echeverry',
+    'deca_1.cargo' => 'Cordinador general del proyecto',
 
-    'maria_garcia.nombre' => 'Mar&iacute;a Alejandra Garc&iacute;a',
-    'maria_garcia.cargo' => 'L&iacute;der de talento humano y documentaci&oacute;n',
+    'deca_2.nombre' => 'Mar&iacute;a Alejandra Garc&iacute;a',
+    'deca_2.cargo' => 'L&iacute;der de talento humano y documentaci&oacute;n',
 
-    'edgar_chamorro.nombre' => 'Edgar Chamorro',
-    'edgar_chamorro.cargo' => 'L&iacute;der de log&iacute;stica de construcci&oacute;n',
+    'deca_3.nombre' => 'Edgar Chamorro',
+    'deca_3.cargo' => 'L&iacute;der de log&iacute;stica de construcci&oacute;n',
 
-    'tomas_mejia.nombre' => 'Tom&aacute;s Mej&iacute;a',
-    'tomas_mejia.cargo' => 'L&iacute;der del &aacute;rea comercial',
+    'deca_4.nombre' => 'Tom&aacute;s Mej&iacute;a',
+    'deca_4.cargo' => 'L&iacute;der del &aacute;rea comercial',
 
-    'jorge_navia.nombre' => 'Jorge Navia',
-    'jorge_navia.cargo' => 'L&iacute;der del &aacute;rea financiera y log&iacute;stica general de procesos',
+    'deca_5.nombre' => 'Jorge Navia',
+    'deca_5.cargo' => 'L&iacute;der del &aacute;rea financiera y log&iacute;stica general de procesos',
 
-    'juan_sanchez.nombre' => 'Juan Camilo S&aacute;nchez',
-    'juan_sanchez.cargo' => 'L&iacute;der de Benchmarking y documentaci&oacute;n',
+    'deca_6.nombre' => 'Juan Camilo S&aacute;nchez',
+    'deca_6.cargo' => 'L&iacute;der de Benchmarking y documentaci&oacute;n',
+
+    'nintegrantes' => '6'
 
 ];

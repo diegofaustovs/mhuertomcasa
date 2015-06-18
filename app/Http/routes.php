@@ -15,7 +15,23 @@ Route::get('/news', ['as'=>'news', 'uses'=>'NewsController@showAllNews']);
 
 Route::get('/', 'StaticController@index');
 
+/*
+ * Teams
+ */
+
 Route::get('/management', ['as'=>'management', 'uses'=>'StaticController@management']);
+Route::get('/architecture', ['as'=>'architecture', 'uses'=>'StaticController@architecture']);
+Route::get('/civil', ['as'=>'civil', 'uses'=>'StaticController@civil']);
+Route::get('/social', ['as'=>'social', 'uses'=>'StaticController@social']);
+Route::get('/electric', ['as'=>'electric', 'uses'=>'StaticController@electric']);
+Route::get('/orchards', ['as'=>'orchards', 'uses'=>'StaticController@orchards']);
+Route::get('/bioclimatics', ['as'=>'bioclimatics', 'uses'=>'StaticController@bioclimatics']);
+Route::get('/design', ['as'=>'design', 'uses'=>'StaticController@design']);
+Route::get('/web', ['as'=>'web', 'uses'=>'StaticController@web']);
+
+/*
+ * Sponsors
+ */
 
 Route::get('/project_sponsors', ['as'=>'project_sponsors', 'uses'=>'StaticController@projectSponsors']);
 

@@ -10,9 +10,9 @@
             <!-- Inner -->
             <div class="inner">
                 <header>
-                    <h1><a href="index.html" id="logo">Helios</a></h1>
+                    <h1>+Huerto <br> +Casa</h1>
                     <hr />
-                    <p>Tortor duis tempor at Sapien</p>
+                    <p>HARVESTING ENCOUNTERS, KNITTING SOCIETY</p>
                 </header>
                 <footer>
                     <a href="#banner" class="button circled scrolly">Start</a>

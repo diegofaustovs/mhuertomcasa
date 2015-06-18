@@ -13,10 +13,11 @@ body{
 }
 
 #nav{
-    background: rgb(128, 182, 65) url(./images/Navbar.png);
     color: #fff;
     height: 88px;
     padding: 2em 0 1.5em 0;
+    background: rgba(11, 11, 11, 0) url(./images/NavbarWeb2-08.png) no-repeat;
+    background-size: 100%;
 }
 
 #nav ul{
@@ -49,7 +50,9 @@ body{
 }
 
 #footer{
-    background-color: #1D4C24;
+    padding: 2em 2em 1em 2em;
+    background: url(../images/Footer3.png) no-repeat;
+    background-size: 100%;
 }
 
 .carousel .backward:before, .carousel .forward:before{
@@ -67,6 +70,12 @@ body{
 
 #parrafo p{
     text-align: center;
+}
+
+#integrantes ul{
+    text-justify: auto;
+    margin: 1em 1em 1em 1em;
+    list-style: cjk-ideographic;
 }
 
 h3#subtitle {
@@ -98,4 +107,22 @@ h4 {
 
 .carousel{
     margin-top: 40px!important;
+}
+
+.circular {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+.circular img{
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+}
+
+.contact{
+    margin-bottom: 30px;
 }
