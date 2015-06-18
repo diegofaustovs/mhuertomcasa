@@ -44,6 +44,4 @@
 
     </div>
 
-    </body>
-
 @endsection('content')
