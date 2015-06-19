@@ -76,4 +76,26 @@ class NewsController extends Controller {
         return view('news')->with('items', $paginator);
     }
 
+    public function showAllPress()
+    {
+        $lc = Config::get('app.locale');
+        $this->feed->set_feed_url("http://pq0gumry.blogspot.com/feeds/posts/default/-/$lc-press?max-results=1000");
+        $this->feed->init();
+
+        $items = $this->feed->get_items();
+
+        $reverse = array_reverse($items);
+
+        //Paginate the press releases
+        $paginator = new LengthAwarePaginator(array_slice($reverse, 0, 1),count($reverse),1);
+        $current_page = $paginator->currentPage();
+
+        $paginator = new LengthAwarePaginator(array_slice($reverse, ($current_page-1), 1),count($reverse),1);
+        Log::info($paginator->currentPage());
+
+        $paginator->setPath("$lc/solar_press");
+
+        return view('news')->with('items', $paginator);
+    }
+
 }

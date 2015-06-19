@@ -12,6 +12,7 @@
 */
 
 Route::get('/news', ['as'=>'news', 'uses'=>'NewsController@showAllNews']);
+Route::get('/press', ['as'=>'press', 'uses'=>'NewsController@showAllPress']);
 Route::get('/solar_press', ['as'=>'solar_press', 'uses'=>'NewsController@showAllSolarPress']);
 
 Route::get('/', 'StaticController@index');
