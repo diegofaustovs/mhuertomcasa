@@ -20,7 +20,7 @@
 
 
                 <header>
-                    <div id="titulo"><h2>{{Lang::get('p_proyecto.header')}}</h2></div>
+                    <h2 class="titulo">{{Lang::get('p_proyecto.header')}}</h2>
                     <h3 id="subtitle">{{Lang::get('p_proyecto.description')}}</h3>
                 </header>
 
@@ -48,7 +48,7 @@
                         <header>
                             <h4><a href="#">Apiros</a></h4>
                         </header>
-                        <p class="text left">{{Lang::get('p_proyecto.apiros.description')}}</p>
+                        <p class="text left">{!! Lang::get('p_proyecto.apiros.description') !!}</p>
                     </div>
                     <div class="5u 12(mobile)">
                         <a href="#" class="image featured"><img src="images/apiros.png" alt="" /></a>
