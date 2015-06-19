@@ -39,7 +39,7 @@
                 <!-- Copyright -->
                 <div class="copyright">
                     <ul class="menu">
-                        <li>&copy; Untitled. All rights reserved.</li>
+                        <li>&copy; M&aacute;s Huerto M&aacute;s Casa. {{Lang::get('miscellaneous.derechos_reservados')}}</li>
                     </ul>
                 </div>
 
