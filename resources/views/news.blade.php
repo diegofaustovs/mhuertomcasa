@@ -42,6 +42,12 @@
             </div>
         @endforeach
 
+
+        <div class="text-center">
+            {!! $items->render() !!}
+        </div>
+
+
     </div>
 
 @endsection('content')
