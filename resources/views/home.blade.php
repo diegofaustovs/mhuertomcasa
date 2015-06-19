@@ -7,13 +7,19 @@
         <!-- Header -->
         <div id="header">
 
+            <!-- Inner -->
+            <div class="inner">
+                <image class="logo" src="../images/logohome.png"></image>
+                <footer>
+                    <a href="#banner"><i class="logo fa fa-angle-down fa-5x"></i></a>
+                </footer>
 
+            </div>
 
 
             @include('header')
 
         </div>
-        <section></section>
 
         <!-- Banner -->
         <section id="banner">
@@ -29,7 +35,6 @@
                 </div>
             </header>
         </section>
-        <section></section>
 
         <!-- Carousel -->
         {{--<section class="carousel">--}}
@@ -120,9 +125,9 @@
 
         <!-- Main -->
 
-        <div class="wrapper style1">
+        <section id="banner" class="wrapper style1">
 
-            <section id="features" class="container special">
+            {{--<section id="features" class="container special">--}}
 
                 <article id="main" class="container special">
                     <header>
@@ -136,13 +141,13 @@
                     </footer>
                     {{--<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>--}}
                 </article>
-            </section>
-        </div>
+            {{--</section>--}}
+        </section>
 
         <!-- Features -->
-        <div class="wrapper style1">
+        <section id="banner" class="wrapper style1">
 
-            <section id="features" class="container special">
+            {{--<section id="features" class="container special">--}}
                 <header>
                     <h2 class="titulo">{{Lang::get('home.whoTitle')}}</h2>
                 </header>
@@ -169,21 +174,19 @@
                         {{--</header>--}}
                     {{--</article>--}}
                 </div>
-            </section>
+            {{--</section>--}}
 
-        </div>
+        </section>
     </div>
 
 
-    <div class="wrapper style1">
+    <section id="banner" class="wrapper style1">
 
-        <section id="features" class="container special">
-            <header>
+            <header style="text-align: center">
                 <a class="twitter-timeline" href="https://twitter.com/solarduniandes" data-widget-id="611942708815527940">Tweets {{Lang::get('home.by')}} @solarduniandes</a>
             </header>
-        </section>
 
-    </div>
+    </section>
 
 
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
