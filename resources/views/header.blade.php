@@ -36,11 +36,7 @@
             </ul>
         </li>
         <li>
-            <a href="#">{{Lang::get('navbar.patrocinadores')}}</a>
-            <ul>
-                <li><a href='{{route('project_sponsors')}}'>{{Lang::get('navbar.p_proyecto')}}</a></li>
-                <li><a href="#">{{Lang::get('navbar.p_concurso')}}</a></li>
-            </ul>
+            <a href="{{route('project_sponsors')}}">{{Lang::get('navbar.patrocinadores')}}</a>
         </li>
     </ul>
 </nav>

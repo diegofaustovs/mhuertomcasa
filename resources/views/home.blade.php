@@ -15,7 +15,7 @@
                     <p>HARVESTING ENCOUNTERS, KNITTING SOCIETY</p>
                 </header>
                 <footer>
-                    <a href="#banner" class="button circled scrolly">Start</a>
+                    <a href="#banner" class="button circled scrolly">Explorar</a>
                 </footer>
             </div>
 
