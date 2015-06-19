@@ -93,7 +93,7 @@ class NewsController extends Controller {
         $paginator = new LengthAwarePaginator(array_slice($reverse, ($current_page-1), 1),count($reverse),1);
         Log::info($paginator->currentPage());
 
-        $paginator->setPath("$lc/solar_press");
+        $paginator->setPath("$lc/press");
 
         return view('news')->with('items', $paginator);
     }
