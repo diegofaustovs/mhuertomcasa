@@ -26,13 +26,13 @@
 
 
                 <div class="row">
-                    <div class="1u 12(mobile)"></div>
 
-                    <div class="5u 12(mobile)">
+
+                    <div class="col-md-5 col-md-offset-1">
                         <a href="#" class="image left"><img src="images/emgesa_codensa_enel.png" alt="" /></a>
                     </div>
 
-                    <div class="5u 12(mobile)">
+                    <div class="col-md-5">
                         <header>
                             <h4>{{Lang::get('p_proyecto.codensa.name')}}</h4>
                         </header>
@@ -43,14 +43,13 @@
 
                 <div class="row">
 
-                    <div class="1u 12(mobile)"></div>
-                    <div class="5u 12(mobile)">
+                    <div class="col-md-5 col-md-offset-1">
                         <header>
                             <h4><a href="#">Apiros</a></h4>
                         </header>
                         <p class="text left">{!! Lang::get('p_proyecto.apiros.description') !!}</p>
                     </div>
-                    <div class="5u 12(mobile)">
+                    <div class="col-md-5">
                         <a href="#" class="image featured"><img src="images/apiros.png" alt="" /></a>
                     </div>
 
@@ -58,11 +57,10 @@
 
                 <div class="row">
 
-                    <div class="1u 12(mobile)"></div>
-                    <div class="5u 12(mobile)">
+                    <div class="col-md-5 col-lg-offset-1">
                         <a href="#" class="image left"><img src="images/innovandes.jpg" alt="" /></a>
                     </div>
-                    <div class="5u 12(mobile)">
+                    <div class="col-md-5">
                         <header>
                             <h4><a href="#">Innovandes</a></h4>
                         </header>
