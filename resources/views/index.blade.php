@@ -12,6 +12,7 @@
     <base href="{{url('/')}}"/>
     <link rel="icon" type="image/png" href="{{asset('images/logomhmc.png')}}">
     <!--[if lte IE 8]><script src="{{ asset('/css/ie/html5shiv.js') }}"></script><![endif]-->
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap.css')  }}" />
     <link rel="stylesheet" href="{{ asset('/css/main.css')  }}" />
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ asset('/css/ie8.css') }}" /><![endif]-->
     <link rel="stylesheet" href="{{ asset('/css/important.css')  }}" />
