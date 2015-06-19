@@ -67,6 +67,11 @@ class StaticController extends Controller {
         return view('teams/web');
     }
 
+    public function organization_chart()
+    {
+        return view('teams/org_chart');
+    }
+
     public function projectSponsors()
     {
         return view('sponsors/project_sponsors');

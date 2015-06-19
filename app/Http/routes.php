@@ -29,6 +29,7 @@ Route::get('/bioclimatics', ['as'=>'bioclimatics', 'uses'=>'StaticController@bio
 Route::get('/design', ['as'=>'design', 'uses'=>'StaticController@design']);
 Route::get('/web', ['as'=>'web', 'uses'=>'StaticController@web']);
 
+Route::get('/org_chart', ['as'=>'org_chart', 'uses'=>'StaticController@organization_chart']);
 /*
  * Sponsors
  */

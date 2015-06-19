@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="{{ asset('/css/main.css')  }}" />
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ asset('/css/ie8.css') }}" /><![endif]-->
     <link rel="stylesheet" href="{{ asset('/css/important.css')  }}" />
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,900|Yanone+Kaffeesatz:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,900%7CYanone+Kaffeesatz:400,700' rel='stylesheet' type='text/css'>
 </head>
 @yield('content')
 
@@ -47,8 +47,6 @@
 
         </div>
     </div>
-</div>
-
 </div>
 
 <!-- Scripts -->

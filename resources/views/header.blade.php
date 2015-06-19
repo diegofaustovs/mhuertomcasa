@@ -25,11 +25,11 @@
                         <li><a href="{{route('web')}}">{{Lang::get('navbar.web')}}</a></li>
                     </ul>
                 </li>
-                <li><a href="#">{{Lang::get('navbar.organigrama')}}</a></li>
+                <li><a href="{{route('org_chart')}}">{{Lang::get('navbar.organigrama')}}</a></li>
             </ul>
         </li>
         <li>
-            <a href="#">{{Lang::get('navbar.solar')}}</a>
+            <a href="">{{Lang::get('navbar.solar')}}</a>
             <ul>
                 <li><a href="#">{{Lang::get('navbar.general')}}</a></li>
                 <li><a href="#">{{Lang::get('navbar.competencias')}}</a></li>
