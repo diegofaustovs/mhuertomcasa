@@ -33,7 +33,7 @@
             <a href="">{{Lang::get('navbar.solar')}}</a>
             <ul>
                 <li><a href="{{route('solarInfo')}}">{{Lang::get('navbar.general')}}</a></li>
-                <li><a href="">{{Lang::get('navbar.competencias')}}</a></li>
+                <li><a href="{{route('contests')}}">{{Lang::get('navbar.competencias')}}</a></li>
             </ul>
         </li>
         <li>

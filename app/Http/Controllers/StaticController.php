@@ -82,4 +82,9 @@ class StaticController extends Controller {
         return view('solar/general_info');
     }
 
+    public function contests()
+    {
+        return view('solar/contests');
+    }
+
 }
