@@ -201,5 +201,40 @@ p.patro3{
 }
 
 .contenido{
-    margin: 5%;
+    margin-top: 5%;
 }
+
+.wrapper.news{
+    padding: 1em 0 0 0;
+    margin-bottom: 0;
+}
+
+hr{
+    margin-bottom: 4em !important;
+    top: 3em;
+}
+
+article.special{
+    text-align: justify;
+}
+
+#redes{
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+/*
+#banner{
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+}
+
+#what{
+    background-image: url(../images/what.jpg);
+    background-size: contain;
+}
+
+#who{
+    background-image: url(../images/who.jpg);
+    background-size: contain;
+}*/

@@ -46,7 +46,7 @@
                     </article>
                 </div>
             </section>
-            <div class="container">
+            <div class="contenido">
                 <div id="">
                     <p>{{Lang::get('equipo_electrico.motivacion')}}</p>
                 </div>

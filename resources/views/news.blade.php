@@ -17,7 +17,7 @@
 
         @foreach($items as $item)
 
-            <div class="wrapper style1">
+            <div class="wrapper news">
                 <div class="container">
                     <div class="row">
 
