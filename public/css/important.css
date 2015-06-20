@@ -208,3 +208,20 @@ p.patro3{
 .contenido{
     margin: 5%;
 }
+
+.green-circle {
+    display: inline-block;
+    border-radius: 100%;
+    width: 4.5em;
+    height: 4.5em;
+    line-height: 4.5em;
+    text-align: center;
+    font-size: 1.25em;
+    padding: 0;
+    background:#1A7E45;
+    margin-bottom: 1em;
+}
+
+.green-circle i {
+    margin-top: 23px;
+}
