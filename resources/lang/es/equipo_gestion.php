@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => 'EQUIPO DE GESTI&Oacute;N',
+    'equipo' => 'Equipo de Gesti&oacute;n',
 
     'motivacion' => 'Nuestra motivaci&oacute;n como equipo de gesti&oacute;n es facilitar los recursos a las dema&aacute;s areas para llevar a cabo este proyecto de la manera m&aacute;s agradable, segura y eficiente posible.',
 

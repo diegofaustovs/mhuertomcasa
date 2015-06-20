@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => 'ELECTRICAL DESIGN TEAM',
+    'equipo' => 'Electrical Design Team',
 
     'motivacion' => 'We propose a new way of using electrical energy within a household, in an effective and efficient manner. Our motivation for working in SDLAC is being able to apply our theoretical knowledge in a viable and feasible project. We are motivated the possibility of creating a design replicable in several communities, as well as becoming a national and worldwide referent in the design of user-friendly and efficient electrical networks. That is why we are working in our design form electrical and electronics engineering, in order to achieve our objectives, by designing the photovoltaic system of the house, the electrical network, and the automation and communications solutions.',
 

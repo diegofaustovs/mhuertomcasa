@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => 'EQUIPO DE DISE&Ntilde;O EL&Eacute;CTRICO',
+    'equipo' => 'Equipo de dise&ntilde;o el&eacute;ctrico',
 
     'motivacion' => 'Desde el&eacute;ctrica proponemos un nueva forma de utilizar la energ&iacute;a el&eacute;ctrica en una vivienda de forma eficiente y efectiva. Nuestra motivaci&oacute;n para trabajar en el SDLAC, es el poder aplicar nuestros conocimientos te&oacute;ricos en un proyecto viable y realizable, teniendo un enfoque social y humano. Nos motiva la posibilidad de crear un diseño replicable en muchas comunidades, y llegar a ser un referente a nivel nacional y mundial en el diseño de redes el&eacute;ctricas amigables y eficientes. Por esto estamos trabajando en el dise&ntilde;o desde la el&eacute;ctrica y la electr&oacute;nica para cumplir con nuestros objetivos, dise&ntilde;ando el sistema fotovoltaico para garantizar el suministro de energ&iacute;a el&eacute;ctrica en el hogar, la red interna de la vivienda, y las soluciones de automatizaci&oacute;n y comunicaciones.',
 

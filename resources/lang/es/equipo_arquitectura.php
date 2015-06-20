@@ -8,7 +8,7 @@
 
 return [
 
-    'equipo' => 'EQUIPO DE ARQUITECTURA',
+    'equipo' => 'Equipo de Arquitectura',
 
     'motivacion' => 'Nuestra principal motivaci&oacute;n es dise&ntilde;ar una propuesta de vivienda sostenible de bajo presupuesto, que a diferencia de la vivienda econ&oacute;mica producida en Colombia, se enfatice en reconocer al usuario, reinterpretar sus costumbres habitacionales y ofrecerle una  vivienda digna. Basados en nuestra propuesta, creemos que la arquitectura tiene el deber de transformar la vida de quienes la habitan, haci&eacute;ndola no solamente m&aacute;s digna sino inclusive, mejor y m&aacute;s feliz. La calidad de vida deseada se logra mediante la reflexi&oacute;n de una arquitectura pensada para las personas, sus necesidades, circunstancias, contexto y costumbres. Una vez tenida en cuenta dicha premisa, ponemos nuestras habilidades y aprendizajes para proyectar espacios flexibles y habitables, solucionar t&eacute;cnica y materialmente los conceptos sostenibles, y desarrollar a fondo el concepto y la forma desde la escala urbana, hasta los detalles de la casa.',
 

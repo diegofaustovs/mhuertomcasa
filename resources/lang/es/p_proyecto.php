@@ -1,9 +1,9 @@
 <?php
 return[
 
-    'header' => 'NUESTROS PATROCINADORES',
+    'header' => 'Nuestros Patrocinadores',
     'description' => 'Nuestro equipo tiene el apoyo de dos grandes compa&ntilde;ias al igual que de la Universidad de los Andes',
-    'codensa.name' => 'Codena, Emgesa y Enel group',
+    'codensa.name' => 'Codensa, Emgesa y Enel group',
     'codensa.description' => 'Es una de las principales empresas en distribuci&oacute;n y venta de electricidad en Colombia y
                                 se caracteriza por ser l&iacute;der en su compromiso por exceder las expectativas de sus
                                 clientes, por su motivaci&oacute;n y por la optimizaci&oacute;n de uso de los recursos naturales.',

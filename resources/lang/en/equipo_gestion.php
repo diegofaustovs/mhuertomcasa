@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => 'MANAGEMENT TEAM',
+    'equipo' => 'Management Team',
 
     'motivacion' => 'Our motivation as a management team is to provide resources to other areas to carry out this project in the most pleasant, safe and efficient manner.',
 

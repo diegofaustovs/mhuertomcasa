@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => 'COMMUNICATIONS AND DESIGN TEAM',
+    'equipo' => 'Communications and Design Team',
 
     'motivacion' => 'We are motivated by the possibility given to us of putting into practice the tools and knowledge we have acquired throughout our lives, aiming to respond to the social responsibility that we have got towards the people who have not been able to develop under the same circumstances. We want to work for an interior design and a communications plan that shows our interest and efforts in sustainability , social equity and energy efficiency.',
 

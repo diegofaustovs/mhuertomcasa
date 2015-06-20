@@ -14,16 +14,11 @@
         <!-- Features -->
         <div class="wrapper style1">
 
-            <section id="features" class="container special">
-
-
-
-
+            <section class="container special">
                 <header>
                     <h2 class="titulo">{{Lang::get('p_proyecto.header')}}</h2>
                     <h3 id="subtitle">{{Lang::get('p_proyecto.description')}}</h3>
                 </header>
-
 
                 <div class="row">
 

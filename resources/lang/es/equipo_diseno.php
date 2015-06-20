@@ -8,7 +8,7 @@
 
 return[
 
-    'equipo' => 'EQUIPO DE COMUNICACIONES Y DISE&Ntilde;O',
+    'equipo' => 'Equipo de Comunicaciones y Dise&ntilde;o',
 
     'motivacion' => 'Nos motiva el poder poner en pr&aacute;ctica las herramientas que hemos adquirido por medio de las distintas oportunidades y actividades a lo largo de nuestra vida, con el fin de responder a la responsabilidad social que tenemos frente a las personas que no han tenido la posibilidad de desarrollarse bajo las mismas condiciones. Queremos trabajar para conseguir un dise&ntilde;o de interior y un plan de comunicaciones que evidencia nuestro inter&eacute;s y esfuerzo por la sostenibilidad, la igualdad social y la eficiencia energ&eacute;tica.',
 
