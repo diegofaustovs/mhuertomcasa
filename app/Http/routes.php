@@ -38,5 +38,11 @@ Route::get('/org_chart', ['as'=>'org_chart', 'uses'=>'StaticController@organizat
 
 Route::get('/project_sponsors', ['as'=>'project_sponsors', 'uses'=>'StaticController@projectSponsors']);
 
+/*
+ * Solar Decathlon
+ */
+
+Route::get('/solarInfo',['as'=>'solarInfo', 'uses'=>'StaticController@solarInfo']);
+
 //Route::get('home', 'HomeController@index');
 

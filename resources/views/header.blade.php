@@ -10,10 +10,10 @@
                 <li><a href='{{route('solar_press')}}'>{{Lang::get('navbar.prensa')}}</a></li>
             </ul>
         <li>
-            <a href="#">{{Lang::get('navbar.equipo')}}</a>
+            <a href="">{{Lang::get('navbar.equipo')}}</a>
             <ul>
                 <li>
-                    <a href="#">{{Lang::get('navbar.subequipos')}}</a>
+                    <a href="">{{Lang::get('navbar.subequipos')}}</a>
                     <ul>
                         <li><a href='{{route('management')}}'>{{Lang::get('navbar.gestion')}}</a></li>
                         <li><a href="{{route('architecture')}}">{{Lang::get('navbar.arquitectura')}}</a></li>
@@ -32,8 +32,8 @@
         <li>
             <a href="">{{Lang::get('navbar.solar')}}</a>
             <ul>
-                <li><a href="#">{{Lang::get('navbar.general')}}</a></li>
-                <li><a href="#">{{Lang::get('navbar.competencias')}}</a></li>
+                <li><a href="{{route('solarInfo')}}">{{Lang::get('navbar.general')}}</a></li>
+                <li><a href="">{{Lang::get('navbar.competencias')}}</a></li>
             </ul>
         </li>
         <li>
