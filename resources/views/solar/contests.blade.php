@@ -23,8 +23,6 @@
                 <div class="contenido">
                     <div class="row">
 
-
-
                         <div class="col-md-3">
 
                             <div class="green-circle">
@@ -62,13 +60,15 @@
                     </div>
 
                     <div class="row">
+
                         <div class="col-md-3">
 
                             <div class="green-circle">
-                                <i class="fa fa-plug fa-inverse fa-2x"></i>
+                                <i class="fa fa-bed fa-inverse fa-2x"></i>
                             </div>
 
                             <h4 class="patro2">{{ Lang::get('contests.comfort.title') }}</h4>
+
                         </div>
 
                         <div class="col-md-3">
@@ -78,6 +78,7 @@
                             </div>
 
                             <h4 class="patro2">{{ Lang::get('contests.sustainability.title') }}</h4>
+
                         </div>
 
                         <div class="col-md-3">
@@ -87,6 +88,7 @@
                             </div>
 
                             <h4 class="patro2">{{ Lang::get('contests.house-func.title') }}</h4>
+
                         </div>
 
                         <div class="col-md-3">
@@ -96,10 +98,12 @@
                             </div>
 
                             <h4 class="patro2">{{ Lang::get('contests.marketing.title') }}</h4>
+
                         </div>
                     </div>
 
                     <div class="row">
+
                         <div class="col-md-3 col-md-offset-3">
 
                             <div class="green-circle">
@@ -107,6 +111,7 @@
                             </div>
 
                             <h4 class="patro2">{{ Lang::get('contests.urban-design.title') }}</h4>
+
                         </div>
 
                         <div class="col-md-3">
@@ -116,6 +121,7 @@
                             </div>
 
                             <h4 class="patro2">{{ Lang::get('contests.innovation.title') }}</h4>
+
                         </div>
 
                     </div>
