@@ -1,10 +1,14 @@
 @extends('index')
 
 @section('content')
+    <body class="no-sidebar">
 
-    @include('header')
+    <div id="page-wrapper">
 
-    <div class="wrapper style1">
+
+        <div id="header">
+            @include('header')
+        </div>rapper style1">
         <div id="titulo">
             <h2>{{Lang::get('equipo_social.equipo')}}</h2>
         </div>
@@ -57,7 +61,7 @@
                             <?php $foto = Lang::get('equipo_social.deca_'.$i.'.foto');
                             if ($foto == "")
                                 echo "https://scontent-mia1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10537094_10153137106807908_3082799598362301392_n.jpg?oh=238dde5f4ab27e1dcf7c021a5dd603fe&oe=55F2A046";
-                                //echo asset("images/logomhmc.png");
+                            //echo asset("images/logomhmc.png");
                             else echo $foto;
                             ?>
                             ">
