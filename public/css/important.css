@@ -295,8 +295,8 @@ article.special{
 }
 
 .video_main{
-    background-size: 100%;
-    background: transparent url(../images/17.jpg) no-repeat fixed;
+    background: transparent url(../images/17.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .main_text{
