@@ -275,11 +275,8 @@ article.special{
 }
 
 #sociales{
-    background-image: url('../images/what.jpg');
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-color: transparent;
-    background-attachment: fixed;
+    background: transparent url('../images/what.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
 
 .what{
