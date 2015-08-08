@@ -10,7 +10,7 @@ return[
 
     'equipo' => 'Equipo de Gesti&oacute;n',
 
-    'motivacion' => 'Nuestra motivaci&oacute;n como equipo de gesti&oacute;n es facilitar los recursos a las dema&aacute;s areas para llevar a cabo este proyecto de la manera m&aacute;s agradable, segura y eficiente posible.',
+    'motivacion' => 'Nuestra motivaci&oacute;n como equipo de gesti&oacute;n es facilitar los recursos a las dem&aacute;s areas para llevar a cabo este proyecto de la manera m&aacute;s agradable, segura y eficiente posible.',
 
     'deca_1.nombre' => 'Alejandro Echeverry',
     'deca_1.cargo' => 'Cordinador general del proyecto',

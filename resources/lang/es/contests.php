@@ -10,7 +10,7 @@ return [
 
     'title' => 'Competencias',
 
-    'description'  => 'La declat&oacute;n se basa en la evaluaci&oacute;n minuciosa de 10 comptencias para un total
+    'description'  => 'La decatl&oacute;n se basa en la evaluaci&oacute;n minuciosa de 10 comptencias para un total
                         de 1000 puntos. 600 puntos los da el jurado y los restantes 400 provienen de comptencias
                         cuantitativas',
 

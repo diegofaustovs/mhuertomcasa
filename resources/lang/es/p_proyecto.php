@@ -14,7 +14,7 @@ return[
                                 y urbanos.',
     'innovandes.description' => 'Innovandes es el centro de innovaci&oacute;n de la Universidad de Los Andes, el cual fue
                                     conformado por las facultades de Arquitectura y Dise&ntilde;o, Ingenier&iacute;a, Ciencias y
-                                    Administraci&oacute;n, como una iniciativa de innovaci&oacute;n interdisciplinar. Es un
+                                    Administraci&oacute;n, como una iniciativa de innovaci&oacute;n interdisciplinaria. Es un
                                     espacio para explorar ideas y emprendimientos que pueden llegar a convertirse en proyectos
                                     aplicados a la sociedad. A partir de ello, su misi&oacute;n es ser un v&iacute;nculo entre
                                     la academ&iacute;a y la industria, generando en todo momento innovaci&oacute;n.

@@ -6,6 +6,7 @@ i.icon.fa-angle-right.fa-fw{
 
 a{
     cursor: pointer;
+    border-bottom: none;
 }
 
 a:hover,
@@ -21,8 +22,10 @@ body{
     color: #fff;
     height: 88px;
     padding: 2em 0 1.5em 0;
-    background: rgba(11, 11, 11, 0) url(./images/Navbar.png) no-repeat;
+    background-image: url(./images/Navbar.png);
+    background-repeat: no-repeat;
     background-size: 100%;
+    background-color: transparent;
 }
 
 #nav ul{
@@ -44,13 +47,11 @@ body{
     margin: 0px;
     z-index: 2;
 }
-#titulo{
-    text-align: center;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-weight: 400;
-}
-#titulo h2{
+
+.titulo h2{
     color: #1A7E45 !important;
+    font-size: 2.85em;
+    margin: 0;
 }
 
 .titulo {
@@ -61,9 +62,10 @@ body{
 }
 
 #footer{
-    padding: 2em 2em 1em 2em;
+    padding: 1em 2em 2em 2em;
     background: url(../images/Footer.png) no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    position: static;
 }
 
 .carousel .backward:before, .carousel .forward:before{
@@ -75,26 +77,12 @@ body{
     background:#1A7E45;
 }
 
-#parrafo{
-    margin: 50px;
-}
-
-#parrafo p{
-    text-align: center;
-}
-
-#integrantes ul{
-    text-justify: auto;
-    margin: 1em 1em 1em 1em;
-    list-style: cjk-ideographic;
-}
-
-h3#subtitle {
-    margin: 2em 0 0 0;
+h3.subtitle {
+    margin: 1em 0 0 0;
     font-weight: 100;
     font-style: italic;
     color: #999999;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 h4 {
@@ -143,13 +131,15 @@ h4 {
 }
 
 .youtube-container { display: block; margin: 0px auto; width: 100%; max-width: 600px; }
-.youtube-player { display: block; width: 100%; /* assuming that the video has a 16:9 ratio */ padding-bottom: 50%; overflow: hidden; position: relative; width: 100%; height: 100%; cursor: hand; cursor: pointer; display: block; }
-img.youtube-thumb { bottom: 0; display: block; left: 0; margin: auto; max-width: 100%; width: 100%; position: absolute; right: 0; top: 0; height: auto }
+.youtube-player { display: block; width: 100%; overflow: hidden; position: relative; height: 27em; cursor: pointer;}
+img.youtube-thumb { bottom: 0; display: block; left: 0; margin: auto; max-width: 100%; width: 100%; position: absolute; right: 0; top: 0; height: 30em}
 div.play-button { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; background: url("http://i.imgur.com/TxzC70f.png") no-repeat; }
 #youtube-iframe { width: 100%; height: 100%; position: absolute; top: 0; left: 0; }
 
 .logo{
-    margin-top: 40px;
+    opacity: 1;
+    max-width: 100%;
+    height: auto;
 }
 
 .video-wrapper {
@@ -194,11 +184,11 @@ div.play-button { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -
     margin: 0;
     opacity: 0.8;
     padding: 0 0 0 0;
-    width: auto;
+    width: 100%;
 }
 
 .row{
-    margin: 0;
+    /*margin: 0;*/
 }
 
 p.patro3{
@@ -206,7 +196,7 @@ p.patro3{
 }
 
 .contenido{
-    margin-top: 5%;
+    /*margin-top: 5%;*/
 }
 
 .wrapper.news{
@@ -228,22 +218,6 @@ article.special{
     margin-right: 9%;
 }
 
-/*
-#banner{
-    background-image: url(../images/banner.jpg);
-    background-size: contain;
-}
-
-#what{
-    background-image: url(../images/what.jpg);
-    background-size: contain;
-}
-
-#who{
-    background-image: url(../images/who.jpg);
-    background-size: contain;
-}*/
-
 .green-circle {
     display: inline-block;
     border-radius: 100%;
@@ -259,4 +233,93 @@ article.special{
 
 .green-circle i {
     margin-top: 23px;
+}
+
+#header{
+    background: url(../images/header.jpg) no-repeat;
+}
+
+.lang_picker{
+    width: 1.5em;
+}
+
+.carousel-img{
+    height: 20em;
+    overflow: hidden;
+}
+
+#fb{
+    opacity: 0.9;
+    max-height: 400px;
+    top: -5px;
+}
+.twitter-timeline{
+    opacity: 0.9;
+    top: 0%;
+}
+
+.fb-comments, .fb-comments span, .fb-comments.fb_iframe_widget span iframe {
+    width: 100% !important;
+}
+
+.logoAndes{
+    width: 8em;
+    height: 8em;
+    left: 50%;
+}
+
+.picAndes{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+#sociales{
+    background-image: url('../images/what.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: transparent;
+    background-attachment: fixed;
+}
+
+.what{
+    background-image: url(../images/16-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: transparent;
+    padding: 10em 0 10em 0;
+    background-attachment: fixed;
+}
+
+.who{
+    background-image: url(../images/who.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: transparent;
+    padding: 10em 0 10em 0;
+    background-attachment: fixed;
+}
+
+.video_main{
+    background-size: 100%;
+    background: transparent url(../images/17.jpg) no-repeat;
+    background-attachment: fixed;
+}
+
+.main_text{
+    color: #FFFFFF;
+    font-size: 1.05em;
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: static;
+    /*top: 0;
+    left: 0;*/
+    width: 100%;
+    height: 100%;
+}
+
+.head_main{
+    text-shadow: 2px 2px 2px black;
 }

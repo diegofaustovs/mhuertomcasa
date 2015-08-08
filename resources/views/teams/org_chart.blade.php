@@ -10,11 +10,12 @@
             @include('header')
         </div>
         <div class="wrapper style1">
-            <div id="titulo">
+            <div class="titulo">
                 <h2>{{Lang::get('miscellaneous.org_chart')}}</h2>
+                <br>
             </div>
             <div class="contenido">
-                <img style="width: 100%" src="{{asset('images/organigrama.png')}}">
+                <img style="width: 100%" src="{{asset('images/Organigrama.png')}}">
             </div>
         </div>
     </div>

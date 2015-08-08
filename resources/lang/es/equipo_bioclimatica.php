@@ -13,7 +13,7 @@ return [
     'motivacion' => 'Una de nuestras motivaciones es generar conciencia en la sociedad mostrando que se pueden construir viviendas dignas con soluciones de bajo costo. Trabajamos para lograr sensaciones t&eacute;rmicas, lum&iacute;nicas y sonoras al interior de la casa sin necesidad de utilizar grandes cantidades de energ&iacute;a, pues pensamos que s&iacute; es posible disminuir el impacto ambiental y el consumo de energ&iacute;a a partir de un uso consciente y estrat&eacute;gico de materiales que brinden rangos de confort en las viviendas y una excelente calidad de vida para las familias. Nuestro objetivo es implementar nuevas tecnolog&iacute;as que generen un cambio de pensamiento en las construcciones futuras. Para esto, debemos poder fusionar el arte, la ciencia y la ingenier&iacute;a para lograr la interacci&oacute;n entre la energ&iacute;a de una casa con la energ&iacute;a del medio ambiente para que esta sea aprovechada de la mejor manera. As&iacute;, buscamos lograr no solo la sostenibilidad ambiental sino tambi&eacute;n la sostenibilidad econ&oacute;mica de las personas que habiten estas casas.',
 
     'deca_1.nombre' => 'C&eacute;sar Agudelo',
-    'deca_1.cargo' => 'Simulaciones EnergyPlus, asesor&iacute;a y apoyo al equipo',
+    'deca_1.cargo' => 'L&iacute;der de Equipo y Simulaciones EnergyPlus',
 
     'deca_2.nombre' => 'Alejandro Echeverry',
     'deca_2.cargo' => 'Mecanismos y calentamiento de agua',

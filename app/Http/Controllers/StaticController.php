@@ -67,6 +67,11 @@ class StaticController extends Controller {
         return view('teams/web');
     }
 
+    public function environmental()
+    {
+        return view('teams/ambiental');
+    }
+
     public function organization_chart()
     {
         return view('teams/org_chart');

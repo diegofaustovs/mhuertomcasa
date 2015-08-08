@@ -13,7 +13,7 @@ return [
     'motivacion' => 'What motivates us is raising awareness in society by showing that you can build social housing based on low-cost solutions. We work to achieve thermal, lighting and acoustic comfort ranges inside the house without using large amounts of energy. We think that we can reduce environmental impact and energy consumption based on conscious and strategic use of materials which provide comfort ranges in buildings and an excellent quality of life for families. Also, we strive to implement new technologies that generate others points of view for future constructions. In order to achieve this, we must be able to merge art, science and engineering to achieve the interaction between the energy of a house with energy from the environment for it to be exploited in the best way. Thus, we want to achieve not only environmental sustainability but also economic sustainability for the people living in these houses.',
 
     'deca_1.nombre' => 'C&eacute;sar Agudelo',
-    'deca_1.cargo' => 'EnergyPlus simulations, advice and support for the team',
+    'deca_1.cargo' => 'Team Leader and EnergyPlus simulations',
     'deca_1.foto' => '',
 
     'deca_2.nombre' => 'Alejandro Echeverry',
@@ -44,6 +44,8 @@ return [
     'deca_8.cargo' => 'Microclimate and thermal comfort',
     'deca_8.foto' => '',
 
-    'nintegrantes' => '8'
+    'nintegrantes' => '8',
+
+    'foto_1' => '',
 
 ];

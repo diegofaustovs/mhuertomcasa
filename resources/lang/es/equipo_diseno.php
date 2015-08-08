@@ -16,7 +16,7 @@ return[
     'deca_1.cargo' => 'L&iacute;der de Grupo - Dise&ntilde;o de interiores',
 
     'deca_2.nombre' => 'Laura Esguerra',
-    'deca_2.cargo' => 'L&iacute;der de Grupo - Documentaci&oacute;n y Diagramaci&oacute;n del Proyecto',
+    'deca_2.cargo' => 'L&iacute;der de Grupo - Docum. del Proyecto',
 
     'deca_3.nombre' => 'Juan Diego Santos',
     'deca_3.cargo' => 'L&iacute;der de Grupo - Audiovisuales y Gr&aacute;fica',
@@ -33,7 +33,7 @@ return[
     'deca_7.nombre' => 'Isabel Arango',
     'deca_7.cargo' => 'Diagramaci&oacute;n e identidad visual del equipo',
 
-    'deca_8.nombre' => 'Mar&iacute;a Andrea Gonz&aacutelez',
+    'deca_8.nombre' => 'Mar&iacute;a Andrea Gonz&aacute;lez',
     'deca_8.cargo' => 'Audiovisuales y Gr&aacute;fica',
 
     'deca_9.nombre' => 'Andrea Peralta',

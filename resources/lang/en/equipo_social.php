@@ -10,7 +10,7 @@ return[
 
     'equipo' => 'Social Team',
 
-    'motivacion' => 'Nuestro equipo busca generar estrategias y herramientas que generen apropiaci&oacute;n, convivencia y fortalezcan el tejido social de los vecinos y vecinas. Adicionalmente, se busca que M&aacute;s Huerto, M&aacute;s Casa comprenda y se integre a la realidad social de los sectores con d&eacute;ficit de vivienda en Am&eacute;rica Latina, proporcionando un espacio que pueda potenciar las habilidades de sus integrantes y se brinde el bienestar que necesitan.',
+    'motivacion' => 'Our team seeks to generate tools and strategies that help generate appropriation, coexistence and strengthen the social fabric of the neighbors. Furthermore, we wish that Más Huerto Más Casa comprehends and integrates into the social reality of the regions in Latin America with housing deficit, providing a space that could maximize the abilities of their members and provides the welfare that they need.',
 
     'deca_1.nombre' => 'Paola Andrea Isaza',
     'deca_1.cargo' => 'Group Leader',

@@ -12,12 +12,11 @@
         </div>
 
         <div class="wrapper style1">
-            <div>
-                <h2 class="titulo">{{Lang::get('equipo_arquitectura.equipo')}}</h2>
+            <div class="titulo">
+                <h2>{{Lang::get('equipo_arquitectura.equipo')}}</h2>
             </div>
             <section class="carousel">
                 <div class="reel">
-
                     <article>
                         <img src="images/gestion02.JPG" alt=""/>
                     </article>
@@ -47,13 +46,13 @@
                     </article>
                 </div>
             </section>
-            <section class="container special">
+            <section class="container">
                 <div class="contenido">
-                    <div id="">
+                    <div>
                         <p>{{Lang::get('equipo_arquitectura.motivacion')}}</p>
                     </div>
 
-                    <div id="titulo">
+                    <div class="titulo">
                         <h2>{{Lang::get('miscellaneous.miembros_equipo')}}</h2>
                     </div>
 
@@ -62,10 +61,10 @@
                             <article class="4u 12u(mobile) special" style="">
                                 <div class="circular" style="margin: 0 auto">
                                     <img src="
-                                <?php $foto = Lang::get('equipo_arquitectura.deca_' . $i . '.foto');
+                            <?php $foto = Lang::get('equipo_arquitectura.deca_' . $i . '.foto');
                                     if ($foto == "")
                                         echo "https://scontent-mia1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10537094_10153137106807908_3082799598362301392_n.jpg?oh=238dde5f4ab27e1dcf7c021a5dd603fe&oe=55F2A046";
-                                    //echo asset("images/logomhmc.png");
+                                    //echo asset("images/ph-user.png");
                                     else echo $foto;
                                     ?>
                             ">

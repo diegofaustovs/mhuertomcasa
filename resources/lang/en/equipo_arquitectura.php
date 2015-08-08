@@ -8,9 +8,9 @@
 
 return [
 
-    'equipo' => 'Arquitecture Team',
+    'equipo' => 'Architectural Team',
 
-    'motivacion' => 'Nuestra principal motivaci&oacute;n es dise&ntilde;ar una propuesta de vivienda sostenible de bajo presupuesto, que a diferencia de la vivienda econ&oacute;mica producida en Colombia, se enfatice en reconocer al usuario, reinterpretar sus costumbres habitacionales y ofrecerle una  vivienda digna. Basados en nuestra propuesta, creemos que la arquitectura tiene el deber de transformar la vida de quienes la habitan, haci&eacute;ndola no solamente m&aacute;s digna sino inclusive, mejor y m&aacute;s feliz. La calidad de vida deseada se logra mediante la reflexi&oacute;n de una arquitectura pensada para las personas, sus necesidades, circunstancias, contexto y costumbres. Una vez tenida en cuenta dicha premisa, ponemos nuestras habilidades y aprendizajes para proyectar espacios flexibles y habitables, solucionar t&eacute;cnica y materialmente los conceptos sostenibles, y desarrollar a fondo el concepto y la forma desde la escala urbana, hasta los detalles de la casa.',
+    'motivacion' => 'Our main motivation for the project is to design a sustainable low-cost housing proposal that, unlike the low-cost housing produced in Colombia, is focused in recognizing the user, revising their habitational customs and offering a respectable housing. Based on our proposal, we believe that architecture has the duty to change the lives of the inhabitants, making it not only respectable, but also better and happier. The desired life quality is achieved through an architecture thought for the people, their needs, circumstances, context and customs. Keeping in mind that premise, we put our abilities and knowledge to create flexible and habitable spaces, solving technical and materially the concepts of sustainability, and developing thoroughly the concept and the form from the urban scale to the details of the house.',
 
     'deca_1.nombre' => 'Juan Mario Pradilla',
     'deca_1.cargo' => 'Urban Master Plan Leader',

@@ -34,6 +34,7 @@ return[
     'electrica' => 'Electrics',
     'diseno' => 'Design',
     'civil' => 'Civil Engineering',
+    'ambiental' => 'Environmental Engineering and Hydraulics',
     'huerto' => 'Orchards'
 
 ];

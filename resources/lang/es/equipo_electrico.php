@@ -33,5 +33,5 @@ return[
     'deca_7.nombre' => 'Daniel Camilo Arias Melo',
     'deca_7.cargo' => 'Decatleta',
 
-    'nintegrantes' => '8'
+    'nintegrantes' => '7'
 ];

@@ -18,6 +18,7 @@
                         <li><a href='{{route('management')}}'>{{Lang::get('navbar.gestion')}}</a></li>
                         <li><a href="{{route('architecture')}}">{{Lang::get('navbar.arquitectura')}}</a></li>
                         <li><a href="{{route('civil')}}">{{Lang::get('navbar.civil')}}</a></li>
+                        <li><a href="{{route('environmental')}}">{{Lang::get('navbar.ambiental')}}</a></li>
                         <li><a href="{{route('social')}}">{{Lang::get('navbar.social')}}</a></li>
                         <li><a href="{{route('electric')}}">{{Lang::get('navbar.electrica')}}</a></li>
                         <li><a href="{{route('orchards')}}">{{Lang::get('navbar.huerto')}}</a></li>
