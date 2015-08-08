@@ -10,10 +10,6 @@
             <!-- Inner -->
             <div class="inner">
                 <image id="logoImg" class="logo" src="../images/logohome3.png"></image>
-                <footer>
-                    <a href="#banner"><i class="logo fa fa-angle-down fa-5x"></i></a>
-                </footer>
-
             </div>
 
 

@@ -283,27 +283,20 @@ article.special{
 }
 
 .what{
-    background-image: url(../images/16-2.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-color: transparent;
     padding: 10em 0 10em 0;
-    background-attachment: fixed;
+    background: transparent url(../images/16-2.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .who{
-    background-image: url(../images/who.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-color: transparent;
     padding: 10em 0 10em 0;
-    background-attachment: fixed;
+    background: transparent url(../images/who.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .video_main{
     background-size: 100%;
-    background: transparent url(../images/17.jpg) no-repeat;
-    background-attachment: fixed;
+    background: transparent url(../images/17.jpg) no-repeat fixed;
 }
 
 .main_text{
