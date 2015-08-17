@@ -91,5 +91,9 @@ class StaticController extends Controller {
     {
         return view('solar/contests');
     }
+    public function videos()
+    {
+        return view('media/videos');
+    }
 
 }

@@ -2,7 +2,7 @@
 
 return [
 
-    'competition' => 'El Solar Decathlon es una competición internacional, creada por el Departamento de Energías de Estados Unidos, en el cual universidades de todo el mundo trabajando para diseñar, construir y operar una vivienda energéticamente autosuficiente que esta unidad a la red, la cual usa energía solar como su única fuente de energía y está equipada con todas las tecnologías que buscan maximizar la eficiencia energética.<br><br>Las reglas están dirigidas para fomentar la competición de prototipos de viviendas que cumplan con el triple desafío: energía, medio ambiente y sociedad. Por lo tanto, la evaluación de las propuestas, por medio de las 10 competencias del Decathlon, tiene como fin abordar innovaciones relacionadas a las viviendas del futuro.<br><br>El Solar Decathlon Latinoamérica y el caribe 2015 está enfocado en fomentar diseños que tomen en cuenta los siguientes principios:
+    'competition' => 'El Solar Decathlon es una competencia internacional, creada por el Departamento de Energías de Estados Unidos, en el cual universidades de todo el mundo trabajando para diseñar, construir y operar una vivienda energéticamente autosuficiente que esta unidad a la red, la cual usa energía solar como su única fuente de energía y está equipada con todas las tecnologías que buscan maximizar la eficiencia energética.<br><br>Las reglas están dirigidas para fomentar la competición de prototipos de viviendas que cumplan con el triple desafío: energía, medio ambiente y sociedad. Por lo tanto, la evaluación de las propuestas, por medio de las 10 competencias del Decathlon, tiene como fin abordar innovaciones relacionadas a las viviendas del futuro.<br><br>El Solar Decathlon Latinoamérica y el caribe 2015 está enfocado en fomentar diseños que tomen en cuenta los siguientes principios:
 <ol>
 <li><i class="fa fa-hand-o-right"></i> Viviendas Sociales</li>
 <li><i class="fa fa-hand-o-right"></i> Densidad Urbana</li>
@@ -10,6 +10,11 @@ return [
 <li><i class="fa fa-hand-o-right"></i> Relevancia regional</li>
 </ol>',
     'about_competition'  => 'LA COMPETENCIA',
-    'org_chart' => 'Organization Chart'
+    'org_chart' => 'Organization Chart',
+    'facebook' => 'Encuentra más información en:
+<ol>
+<li><i class="fa fa-hand-o-right"></i> <a href="https://www.facebook.com/SolarDecathlonLAC2015">Solar Decathlon en Facebook</a></li>
+<li><i class="fa fa-hand-o-right"></i> <a href="http://www.solardecathlon2015.com.co/index.php/en/">Página Web del Solar Decathlon</a></li>
+</ol>'
 
 ];

@@ -12,7 +12,6 @@
                 <image id="logoImg" class="logo" src="../images/logohome3.png"></image>
             </div>
 
-
             @include('header')
 
         </div>
@@ -45,16 +44,26 @@
         </section>
 
         <section id="" class="wrapper style1 video_main">
-            <div class="contenido container special">
+            <div class="contenido container special overlay">
+                <header class="head_main">
+                    <h2 class="titulo">{{Lang::get('home.media')}}</h2>
+                </header>
                 <div class="youtube-player" data-id="Us6N7FllxT8">
                 </div>
+                <br>
+                <p class="main_text media_subtext">
+                    {!!Lang::get('home.more_media')!!}
+                    <script>
+                        document.getElementById('media_link').setAttribute('href','{{route('videos')}}')
+                    </script>
+                </p>
             </div>
         </section>
 
         <section id="sociales" class="home wrapper style1">
             <div id="redes">
-                <header>
-                    <h2 class="titulo">Redes sociales</h2>
+                <header class="head_main">
+                    <h2 class="titulo">{{Lang::get('home.s_network')}}</h2>
                 </header>
                 <a class="twitter-timeline" href="https://twitter.com/solarduniandes" data-widget-id="611942708815527940">Tweets {{Lang::get('home.by')}} @solarduniandes</a>
                 <div style="margin-left: 2em" class="fb-page" data-href="https://www.facebook.com/mashuertomascasa" data-width="510px" data-height="605px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/mashuertomascasa"><a href="https://www.facebook.com/mashuertomascasa">Solar Decathlon Uniandes 2015:   Más Huerto, Más Casa.</a></blockquote></div></div>

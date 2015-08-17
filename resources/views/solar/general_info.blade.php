@@ -16,14 +16,21 @@
                 </div>
                 <div class="contenido">
                     <div>
-                        <p>{!!Lang::get('solar_decathlon.competition')!!}
+                        <p>{!!Lang::get('solar_decathlon.competition')!!}</p>
                     </div>
                 </div>
+                <div class="contenido">
+                    <div>
+                        <p>{!! Lang::get('solar_decathlon.facebook') !!}</p>
+                    </div>
+                </div>
+                <br>
                 <div class="contenido">
                     <div class="youtube-container">
                         <div class="youtube-player" data-id="UIUbMWJCeQw"></div>
                     </div>
                 </div>
+
             </section>
         </div>
     </div>

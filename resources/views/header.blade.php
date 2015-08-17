@@ -1,9 +1,9 @@
 <!-- Nav -->
 <nav id="nav">
     <ul>
-        <li><a href="/">{{Lang::get('navbar.inicio')}}</a></li>
+        <li><a href="{{route('index')}}">{{Lang::get('navbar.inicio')}}</a></li>
         <li>
-            <a href="#">{{Lang::get('navbar.noticias')}}</a>
+            <a href="">{{Lang::get('navbar.noticias')}}</a>
             <ul>
                 <li><a href='{{route('news')}}'>{{Lang::get('navbar.todas_noticias')}}</a></li>
                 <li><a href='{{route('press')}}'>{{Lang::get('navbar.nuestra_prensa')}}</a></li>
@@ -12,6 +12,7 @@
         <li>
             <a href="">{{Lang::get('navbar.equipo')}}</a>
             <ul>
+                <li><a href='{{route('videos')}}'>{{Lang::get('navbar.videos')}}</a></li>
                 <li>
                     <a href="">{{Lang::get('navbar.subequipos')}}</a>
                     <ul>

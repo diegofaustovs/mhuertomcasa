@@ -35,6 +35,10 @@ return[
     'diseno' => 'Dise&ntilde;o',
     'civil' => 'Ingenier&iacute;a Civil',
     'ambiental' => 'Ingenier&iacute;a Ambiental e Hidr&aacute;ulica',
-    'huerto' => 'Huerto'
+    'huerto' => 'Huerto',
+
+    /** Media */
+
+    'videos' => 'Videos'
 
 ];

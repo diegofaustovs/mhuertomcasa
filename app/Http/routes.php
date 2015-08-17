@@ -46,4 +46,6 @@ Route::get('/project_sponsors', ['as'=>'project_sponsors', 'uses'=>'StaticContro
 Route::get('/solarInfo',['as'=>'solarInfo', 'uses'=>'StaticController@solarInfo']);
 Route::get('/contests',['as'=>'contests', 'uses'=>'StaticController@contests']);
 
+Route::get('/videos',['as'=>'videos', 'uses'=>'StaticController@videos']);
+
 //Route::get('home', 'HomeController@index');
