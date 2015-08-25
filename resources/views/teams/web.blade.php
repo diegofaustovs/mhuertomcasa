@@ -31,17 +31,6 @@
                         <img class="carousel-img" src="https://farm4.staticflickr.com/3936/18252656733_58b94f9804_o_d.jpg" alt=""/>
                     </article>
 
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
                 </div>
             </section>
             <section class="container">

@@ -17,31 +17,7 @@
                 <div class="reel">
 
                     <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
+                        <img class="carousel-img" src="https://www.dropbox.com/s/6h4m67mqlmnb273/IMG_8553.png?raw=1" alt=""/>
                     </article>
                 </div>
             </section>
@@ -63,6 +39,7 @@
                             <?php $foto = Lang::get('equipo_diseno.deca_'.$i.'.foto');
                                     if ($foto == "")
                                         echo asset("images/ph-user.png");
+                                    else echo $foto;
                                     ?>
                             ">
                                 </div>

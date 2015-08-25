@@ -18,32 +18,21 @@
             <section class="carousel">
                 <div class="reel">
                     <article>
-                        <img src="images/gestion02.JPG" alt=""/>
+                        <img class="carousel-img" src="https://www.dropbox.com/s/jrf0reezhrssr0g/IMG_8668.JPG?raw=1" alt=""/>
                     </article>
 
                     <article>
-                        <img src="images/gestion02.JPG" alt=""/>
+                        <img class="carousel-img" src="https://www.dropbox.com/s/1hh050uyfaqpyel/IMG_8604.JPG?raw=1" alt=""/>
                     </article>
 
                     <article>
-                        <img src="images/gestion02.JPG" alt=""/>
+                        <img class="carousel-img" src="images/gestion02.JPG" alt=""/>
                     </article>
 
                     <article>
-                        <img src="images/gestion02.JPG" alt=""/>
+                        <img class="carousel-img" src="images/gestion02.JPG" alt=""/>
                     </article>
 
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
                 </div>
             </section>
             <section class="container">
@@ -63,8 +52,7 @@
                                     <img src="
                             <?php $foto = Lang::get('equipo_arquitectura.deca_' . $i . '.foto');
                                     if ($foto == "")
-                                        echo "https://scontent-mia1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10537094_10153137106807908_3082799598362301392_n.jpg?oh=238dde5f4ab27e1dcf7c021a5dd603fe&oe=55F2A046";
-                                    //echo asset("images/ph-user.png");
+                                        echo asset("images/ph-user.png");
                                     else echo $foto;
                                     ?>
                             ">

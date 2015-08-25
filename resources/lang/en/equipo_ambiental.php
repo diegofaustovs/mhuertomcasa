@@ -33,7 +33,7 @@ return [
     'deca_5.cargo' => 'Hydraulic-Water Treatment Design',
     'deca_5.foto' => '',
 
-    'deca_6.nombre' => 'Linamaria Pintor',
+    'deca_6.nombre' => 'Lina Maria Pintor',
     'deca_6.cargo' => 'Solid Waste Management Planning',
     'deca_6.foto' => '',
 

@@ -33,7 +33,7 @@ return [
     'deca_5.cargo' => 'Dise&ntilde;o de Tratamiento Hidr&aacute;ulico',
     'deca_5.foto' => '',
 
-    'deca_6.nombre' => 'Linamaria Pintor',
+    'deca_6.nombre' => 'Lina Maria Pintor',
     'deca_6.cargo' => 'Dise&ntilde;o y Planeaci&oacute;n de la Gesti&oacute;n de Residuos',
     'deca_6.foto' => '',
 
