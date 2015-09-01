@@ -52,6 +52,6 @@ return [
     'f_banner_4' => '',
     'f_banner_5' => '',
 
-    'n_f_banner' => '5',
+    'n_f_banner' => '2',
 
 ];
