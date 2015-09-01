@@ -36,6 +36,7 @@ return[
     'civil' => 'Civil Engineering',
     'ambiental' => 'Environmental Engineering and Hydraulics',
     'huerto' => 'Orchards',
+    'diseno_int' => 'Interior Design',
 
     /** Media */
 

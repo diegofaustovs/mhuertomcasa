@@ -15,34 +15,11 @@
             </div>
             <section class="carousel">
                 <div class="reel">
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
-
-                    <article>
-                        <img src="images/gestion02.JPG" alt=""/>
-                    </article>
+                    @for($i = 1; $i < Lang::get('equipo_electrico.n_f_banner') + 1; $i++)
+                        <article>
+                            <img class="carousel-img" src="{{Lang::get('equipo_electrico.f_banner_' . $i)}}" alt=""/>
+                        </article>
+                    @endfor
                 </div>
             </section>
             <section class="container">

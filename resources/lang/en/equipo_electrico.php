@@ -14,7 +14,7 @@ return[
 
     'deca_1.nombre' => 'Sergio Zambrano Perilla',
     'deca_1.cargo' => 'Electrical Engineer',
-    'deca_1.foto' => '',
+    'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9616.JPG',
 
     'deca_2.nombre' => 'Andr&eacute;s Enrique Villamil Prieto',
     'deca_2.cargo' => 'Instrumentation Contact',
@@ -40,5 +40,13 @@ return[
     'deca_7.cargo' => 'Decathlete',
     'deca_7.foto' => '',
 
-    'nintegrantes' => '7'
+    'nintegrantes' => '7',
+
+    'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9865.JPG',
+    'f_banner_2' => '',
+    'f_banner_3' => '',
+    'f_banner_4' => '',
+    'f_banner_5' => '',
+
+    'n_f_banner' => '1',
 ];

@@ -14,8 +14,12 @@
                 <h2>{{Lang::get('miscellaneous.org_chart')}}</h2>
                 <br>
             </div>
-            <div class="contenido">
-                <img style="width: 100%" src="{{asset('images/Organigrama.png')}}">
+            <div style="text-align: center" class="contenido">
+
+                <img style="width: 40%" src="
+                    <?php $foto = Lang::get('miscellaneous.org_chart_picture');
+                        echo asset($foto);
+                     ?>">
             </div>
         </div>
     </div>

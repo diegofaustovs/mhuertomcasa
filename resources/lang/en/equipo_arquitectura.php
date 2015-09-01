@@ -30,7 +30,7 @@ return [
 
     'deca_5.nombre' => 'Andr&eacute;s Felipe Cabal',
     'deca_5.cargo' => 'Arquitectural Design Leader',
-    'deca_5.foto' => '',
+    'deca_5.foto' => '  https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9649.JPG',
 
     'deca_6.nombre' => 'Santiago Palacio',
     'deca_6.cargo' => 'Arquitectural Design Decathlete',
@@ -44,18 +44,14 @@ return [
     'deca_8.cargo' => 'Arquitectural Design Decathlete',
     'deca_8.foto' => '',
 
-    'deca_9.nombre' => 'Daniela Vald&eacute;s',
-    'deca_9.cargo' => 'Interior Design Leader',
-    'deca_9.foto' => '',
+    'nintegrantes' => '8',
 
-    'deca_10.nombre' => 'Manuela Isaza',
-    'deca_10.cargo' => 'Interior Design Decathlete',
-    'deca_10.foto' => '',
+    'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8604.JPG',
+    'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8668.JPG',
+    'f_banner_3' => '',
+    'f_banner_4' => '',
+    'f_banner_5' => '',
 
-    'deca_11.nombre' => 'Alba Luc&iacute;a Olaya',
-    'deca_11.cargo' => 'Interior Design Decathlete',
-    'deca_11.foto' => '',
-
-    'nintegrantes' => '11'
+    'n_f_banner' => '5',
 
 ];

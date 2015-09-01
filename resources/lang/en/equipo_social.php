@@ -14,7 +14,7 @@ return[
 
     'deca_1.nombre' => 'Paola Andrea Isaza',
     'deca_1.cargo' => 'Group Leader',
-    'deca_1.foto' => '',
+    'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9695.JPG',
 
     'deca_2.nombre' => 'Mar&iacute;a Alejandra Garc&iacute;a',
     'deca_2.cargo' => 'Apoyo',
@@ -36,6 +36,14 @@ return[
     'deca_6.cargo' => 'An&aacute;lisis de poblaci&oacute;n',
     'deca_6.foto' => '',
 
-    'nintegrantes' => '6'
+    'nintegrantes' => '6',
+
+    'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9705.JPG',
+    'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8595.JPG',
+    'f_banner_3' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8619.JPG',
+    'f_banner_4' => '',
+    'f_banner_5' => '',
+
+    'n_f_banner' => '3',
 
 ];

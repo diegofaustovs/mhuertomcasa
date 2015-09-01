@@ -11,21 +11,22 @@
         </div>
         <div class="wrapper style1">
             <div class="titulo">
-                <h2>{{Lang::get('equipo_diseno.equipo')}}</h2>
+                <h2>{{Lang::get('equipo_interiores.equipo')}}</h2>
             </div>
             <section class="carousel">
                 <div class="reel">
-                    @for($i = 1; $i < Lang::get('equipo_diseno.n_f_banner') + 1; $i++)
+                    @for($i = 1; $i < Lang::get('equipo_interiores.n_f_banner') + 1; $i++)
                         <article>
-                            <img class="carousel-img" src="{{Lang::get('equipo_diseno.f_banner_' . $i)}}" alt=""/>
+                            <img class="carousel-img" src="{{Lang::get('equipo_interiores.f_banner_' . $i)}}" alt=""/>
                         </article>
                     @endfor
+
                 </div>
             </section>
             <section class="container">
                 <div class="contenido">
                     <div>
-                        <p>{{Lang::get('equipo_diseno.motivacion')}}</p>
+                        <p>{{Lang::get('equipo_interiores.motivacion')}}</p>
                     </div>
 
                     <div class="titulo">
@@ -33,20 +34,20 @@
                     </div>
 
                     <div class="row">
-                        @for($i = 1; $i < Lang::get('equipo_diseno.nintegrantes') + 1; $i++)
+                        @for($i = 1; $i < Lang::get('equipo_interiores.nintegrantes') + 1; $i++)
                             <article class="4u 12u(mobile) special" style="">
                                 <div class="circular" style="margin: 0 auto">
                                     <img src="
-                            <?php $foto = Lang::get('equipo_diseno.deca_'.$i.'.foto');
+                                <?php $foto = Lang::get('equipo_interiores.deca_' . $i . '.foto');
                                     if ($foto == "")
                                         echo asset("images/ph-user.png");
                                     else echo $foto;
                                     ?>
                             ">
                                 </div>
-                                <p style="text-align: center; margin-top: 1em">{{Lang::get('equipo_diseno.deca_'.$i.'.nombre')}}
+                                <p style="text-align: center; margin-top: 1em">{{Lang::get('equipo_interiores.deca_'.$i.'.nombre')}}
                                     <br>
-                                    {{Lang::get('equipo_diseno.deca_'.$i.'.cargo')}}</p>
+                                    {{Lang::get('equipo_interiores.deca_'.$i.'.cargo')}}</p>
                             </article>
                         @endfor
                     </div>

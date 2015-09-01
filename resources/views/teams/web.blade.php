@@ -15,9 +15,6 @@
             </div>
             <section class="carousel">
                 <div class="reel">
-                    <article>
-                        <img class="carousel-img" src="{{asset('images/JuntaACM.png')}}" alt=""/>
-                    </article>
 
                     <article>
                         <img class="carousel-img" src="https://farm4.staticflickr.com/3734/18923752810_84cea66a72_o_d.jpg" alt=""/>

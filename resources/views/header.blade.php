@@ -24,6 +24,7 @@
                         <li><a href="{{route('electric')}}">{{Lang::get('navbar.electrica')}}</a></li>
                         <li><a href="{{route('orchards')}}">{{Lang::get('navbar.huerto')}}</a></li>
                         <li><a href="{{route('bioclimatics')}}">{{Lang::get('navbar.bioclimatica')}}</a></li>
+                        <li><a href="{{route('interiors')}}">{{Lang::get('navbar.diseno_int')}}</a></li>
                         <li><a href="{{route('design')}}">{{Lang::get('navbar.diseno')}}</a></li>
                         <li><a href="{{route('web')}}">{{Lang::get('navbar.web')}}</a></li>
                     </ul>

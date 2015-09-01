@@ -14,7 +14,7 @@ return[
 
     'deca_1.nombre' => 'Miguel Cadena',
     'deca_1.cargo' => 'Leader',
-    'deca_1.foto' => '',
+    'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9740.JPG',
 
     'deca_2.nombre' => 'Catalina Tamayo',
     'deca_2.cargo' => 'Decathlete',
@@ -32,6 +32,14 @@ return[
     'deca_5.cargo' => 'Decathlete',
     'deca_5.foto' => '',
 
-    'nintegrantes' => '5'
+    'nintegrantes' => '5',
+
+    'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9745.JPG',
+    'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8496.JPG',
+    'f_banner_3' => '',
+    'f_banner_4' => '',
+    'f_banner_5' => '',
+
+    'n_f_banner' => '2',
 
 ];

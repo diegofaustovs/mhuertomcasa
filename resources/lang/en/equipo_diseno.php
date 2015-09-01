@@ -12,42 +12,35 @@ return[
 
     'motivacion' => 'We are motivated by the possibility given to us of putting into practice the tools and knowledge we have acquired throughout our lives, aiming to respond to the social responsibility that we have got towards the people who have not been able to develop under the same circumstances. We want to work for an interior design and a communications plan that shows our interest and efforts in sustainability, social equity and energy efficiency.',
 
-    'deca_1.nombre' => 'Ver&oacute;nica Posada',
-    'deca_1.cargo' => 'Group Leader - Interior Design',
-    'deca_1.foto' => '',
+    'deca_1.nombre' => 'Laura Esguerra',
+    'deca_1.cargo' => 'Group Leader - Project Documentation',
+    'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9604.JPG',
 
-    'deca_2.nombre' => 'Laura Esguerra',
-    'deca_2.cargo' => 'Group Leader - Project Documentation',
+    'deca_2.nombre' => 'Juan Diego Santos',
+    'deca_2.cargo' => 'Group Leader - Graphics and audiovisuals',
     'deca_2.foto' => '',
 
-    'deca_3.nombre' => 'Juan Diego Santos',
-    'deca_3.cargo' => 'Group Leader - Graphics and audiovisuals',
-    'deca_3.foto' => '',
+    'deca_3.nombre' => 'Isabel Arango',
+    'deca_3.cargo' => 'Team identity and Layout',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9642.JPG',
 
-    'deca_4.nombre' => 'Daniela Vald&eacute;s',
-    'deca_4.cargo' => 'Furniture plans',
+    'deca_4.nombre' => 'Mar&iacute;a Andrea Gonz&aacute;lez',
+    'deca_4.cargo' => 'Graphics and audiovisuals',
     'deca_4.foto' => '',
 
-    'deca_5.nombre' => 'Alba Luc&iacute;a Olaya',
-    'deca_5.cargo' => 'Foldable furniture design',
-    'deca_5.foto' => '',
+    'deca_5.nombre' => 'Andrea Peralta',
+    'deca_5.cargo' => 'Team identity and Layout',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9661.JPG',
 
-    'deca_6.nombre' => 'Manuela Isaza',
-    'deca_6.cargo' => 'Group Leader - Foldable furniture',
-    'deca_6.foto' => '',
+    'nintegrantes' => '5',
 
-    'deca_7.nombre' => 'Isabel Arango',
-    'deca_7.cargo' => 'Team identity and Layout',
-    'deca_7.foto' => '',
+    'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9670.JPG',
+    'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8551.png',
+    'f_banner_3' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8553.png',
+    'f_banner_4' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8555.png',
+    'f_banner_5' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8557.png',
+    'f_banner_6' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8558.png',
 
-    'deca_8.nombre' => 'Mar&iacute;a Andrea Gonz&aacute;lez ',
-    'deca_8.cargo' => 'Graphics and audiovisuals',
-    'deca_8.foto' => '',
-
-    'deca_9.nombre' => 'Andrea Peralta',
-    'deca_9.cargo' => 'Team identity and Layout',
-    'deca_9.foto' => '',
-
-    'nintegrantes' => '9'
+    'n_f_banner' => '6',
 
 ];

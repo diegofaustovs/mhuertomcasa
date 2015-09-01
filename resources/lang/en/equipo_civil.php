@@ -8,7 +8,7 @@ return[
 
     'deca_1.nombre' => 'Juli&aacute;n P&eacute;rez',
     'deca_1.cargo' => 'Team leader',
-    'deca_1.foto' => '',
+    'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9634.JPG',
 
     'deca_2.nombre' => 'Juan Pablo Buelvas',
     'deca_2.cargo' => 'Building Information Model',
@@ -16,7 +16,7 @@ return[
 
     'deca_3.nombre' => 'Marco Monta&ntilde;o',
     'deca_3.cargo' => 'Project Budget',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9657.JPG',
 
     'deca_4.nombre' => 'Juan David Paredes',
     'deca_4.cargo' => 'Load/Unload Plan and Exterior Logistics',
@@ -38,5 +38,13 @@ return[
     'deca_8.cargo' => 'Structural Engineering',
     'deca_8.foto' => '',
 
-    'nintegrantes' => '8'
+    'nintegrantes' => '8',
+
+    'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8491.JPG',
+    'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8545.JPG',
+    'f_banner_3' => '',
+    'f_banner_4' => '',
+    'f_banner_5' => '',
+
+    'n_f_banner' => '2',
 ];
