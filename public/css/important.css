@@ -333,3 +333,7 @@ article.special{
     text-align: center;
     font-size: 2em;
 }
+
+.list_indent{
+    padding-left: 2em;
+}

@@ -20,7 +20,7 @@ return[
 
     'deca_4.nombre' => 'Veronica Posada',
     'deca_4.cargo' => 'Decathlete',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9707.JPG',
 
     'nintegrantes' => '4',
 
