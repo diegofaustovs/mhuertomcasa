@@ -49,7 +49,7 @@
                     <h2 class="titulo">{{Lang::get('home.media')}}</h2>
                 </header>
                 <div class="yt_container">
-                    <iframe class="yt_video" src="https://www.youtube.com/embed/gRMIKWxDRrI" frameborder="0" allowfullscreen></iframe>
+                    <iframe class="yt_video" src="https://www.youtube.com/embed/qylv6f_mAYE" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <br>
                 <p class="main_text media_subtext">

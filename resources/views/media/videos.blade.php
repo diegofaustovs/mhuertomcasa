@@ -19,15 +19,13 @@
                     <div class="row">
                         <article class="6u 12u(mobile) special">
                             <div class="yt_container">
-                                <iframe class="yt_video" src="https://www.youtube.com/embed/qylv6f_mAYE" frameborder="0" allowfullscreen></iframe>
+                                <iframe class="yt_video" src="https://www.youtube.com/embed/xUShMr0S_n8" frameborder="0" allowfullscreen></iframe>
                             </div>
-                            <!--<header>
-                                <h3>
-                                    <a style="cursor: pointer;">Gravida aliquam penatibus</a>
-                                </h3>
-                            </header>
-                            <p> Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-                            </p>-->
+                        </article>
+                        <article class="6u 12u(mobile) special">
+                            <div class="yt_container">
+                                <iframe class="yt_video" src="https://www.youtube.com/embed/gRMIKWxDRrI" frameborder="0" allowfullscreen></iframe>
+                            </div>
                         </article>
                         <article class="6u 12u(mobile) special">
                             <div class="yt_container">
