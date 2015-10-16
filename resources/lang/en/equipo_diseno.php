@@ -20,23 +20,23 @@ return[
     'deca_2.cargo' => 'Group Leader - Graphics and audiovisuals',
     'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9604.JPG',
 
-    'deca_2.nombre' => 'Diego Vanegas',
-    'deca_2.cargo' => 'Group Leader - Web Master',
-    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9732.JPG',
+    'deca_3.nombre' => 'Diego Vanegas',
+    'deca_3.cargo' => 'Group Leader - Web Master',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9732.JPG',
 
-    'deca_3.nombre' => 'Isabel Arango',
-    'deca_3.cargo' => 'Team identity and Layout',
-    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9642.JPG',
+    'deca_4.nombre' => 'Isabel Arango',
+    'deca_4.cargo' => 'Team identity and Layout',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9642.JPG',
 
-    'deca_4.nombre' => 'Mar&iacute;a Andrea Gonz&aacute;lez',
-    'deca_4.cargo' => 'Graphics and audiovisuals',
-    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9667.JPG',
+    'deca_5.nombre' => 'Mar&iacute;a Andrea Gonz&aacute;lez',
+    'deca_5.cargo' => 'Graphics and audiovisuals',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9667.JPG',
 
-    'deca_5.nombre' => 'Andrea Peralta',
-    'deca_5.cargo' => 'Team identity and Layout',
-    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9661.JPG',
+    'deca_6.nombre' => 'Andrea Peralta',
+    'deca_6.cargo' => 'Team identity and Layout',
+    'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9661.JPG',
 
-    'nintegrantes' => '5',
+    'nintegrantes' => '6',
 
     'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9670.JPG',
     'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8551.png',
