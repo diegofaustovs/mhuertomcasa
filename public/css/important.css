@@ -278,23 +278,27 @@ article.special{
 #sociales{
     background: transparent url('../images/what.jpg') no-repeat center center fixed;
     background-size: cover;
+    height:100vmin;
 }
 
 .what{
     padding: 10em 0 10em 0;
     background: transparent url(../images/16-2.jpg) no-repeat center center fixed;
     background-size: cover;
+    height: 100vh;
 }
 
 .who{
     padding: 10em 0 10em 0;
     background: transparent url(../images/who.jpg) no-repeat center center fixed;
     background-size: cover;
+    height: 100vh;
 }
 
 .video_main{
     background: transparent url(../images/17.jpg) no-repeat center center fixed;
     background-size: cover;
+
 }
 
 .main_text{
