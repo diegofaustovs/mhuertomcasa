@@ -18,7 +18,7 @@ return[
 
     'deca_2.nombre' => 'Juan Diego Santos',
     'deca_2.cargo' => 'Group Leader - Graphics and audiovisuals',
-    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9604.JPG',
+    'deca_2.foto' => '',
 
     'deca_3.nombre' => 'Diego Vanegas',
     'deca_3.cargo' => 'Group Leader - Web Master',
