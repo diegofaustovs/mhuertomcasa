@@ -18,7 +18,7 @@ return[
 
     'deca_2.nombre' => 'Juan Diego Santos',
     'deca_2.cargo' => 'Group Leader - Graphics and audiovisuals',
-    'deca_2.foto' => '',
+    'deca_2.foto' => 'images/individuales/JuanDi.jpg',
 
     'deca_3.nombre' => 'Diego Vanegas',
     'deca_3.cargo' => 'Group Leader - Web Master',

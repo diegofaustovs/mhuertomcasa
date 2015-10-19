@@ -16,17 +16,17 @@ return [
     'deca_1.cargo' => 'Team Leader and EnergyPlus simulations',
     'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9653.JPG',
 
-    'deca_2.nombre' => 'Giancarlo Storino',
-    'deca_2.cargo' => 'Solar chimneys and ventilation',
-    'deca_2.foto' => '',
+    'deca_2.nombre' => 'Hern&aacute;n D&iacute;az',
+    'deca_2.cargo' => 'Thermal comfort, reflective ceiling',
+    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9682.JPG',
 
-    'deca_3.nombre' => 'Hern&aacute;n D&iacute;az',
-    'deca_3.cargo' => 'Thermal comfort, reflective ceiling',
-    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9682.JPG',
+    'deca_3.nombre' => 'Ana Mar&iacute;a Castillo',
+    'deca_3.cargo' => 'Thermal comfort, windows and grilles',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9674.JPG',
 
-    'deca_4.nombre' => 'Ana Mar&iacute;a Castillo',
-    'deca_4.cargo' => 'Thermal comfort, windows and grilles',
-    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9674.JPG',
+    'deca_4.nombre' => 'Estefan&iacute;a Rojas',
+    'deca_4.cargo' => 'Microclimate and thermal comfort',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9678.JPG',
 
     'deca_5.nombre' => 'Mar&iacute;a Paula Noriega',
     'deca_5.cargo' => 'Ventilation and lighting',
@@ -36,11 +36,7 @@ return [
     'deca_6.cargo' => 'Acoustic analysis and insulation.',
     'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9684.JPG',
 
-    'deca_7.nombre' => 'Estefan&iacute;a Rojas',
-    'deca_7.cargo' => 'Microclimate and thermal comfort',
-    'deca_7.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9678.JPG',
-
-    'nintegrantes' => '7',
+    'nintegrantes' => '6',
 
     'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9688.JPG',
     'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8595.JPG',
