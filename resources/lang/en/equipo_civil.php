@@ -20,15 +20,15 @@ return[
 
     'deca_4.nombre' => 'Juan David Paredes',
     'deca_4.cargo' => 'Load/Unload Plan and Exterior Logistics',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9725.JPG',
 
     'deca_5.nombre' => 'Est&eacute;fany Pinto',
     'deca_5.cargo' => 'Internal Logistics',
-    'deca_5.foto' => '',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9621.JPG',
 
     'deca_6.nombre' => 'Leonardo Garc&iacute;a',
     'deca_6.cargo' => 'Structural Engineering',
-    'deca_6.foto' => '',
+    'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9655.JPG',
 
     'deca_7.nombre' => 'Juan Sebasti&aacute;n Moreno',
     'deca_7.cargo' => 'Structural Engineering',

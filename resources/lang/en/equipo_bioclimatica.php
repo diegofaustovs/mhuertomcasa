@@ -26,19 +26,19 @@ return [
 
     'deca_4.nombre' => 'Ana Mar&iacute;a Castillo',
     'deca_4.cargo' => 'Thermal comfort, windows and grilles',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9674.JPG',
 
     'deca_5.nombre' => 'Mar&iacute;a Paula Noriega',
     'deca_5.cargo' => 'Ventilation and lighting',
-    'deca_5.foto' => '',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9680.JPG',
 
     'deca_6.nombre' => 'Carlos Hurtado',
     'deca_6.cargo' => 'Acoustic analysis and insulation.',
-    'deca_6.foto' => '',
+    'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9684.JPG',
 
     'deca_7.nombre' => 'Estefan&iacute;a Rojas',
     'deca_7.cargo' => 'Microclimate and thermal comfort',
-    'deca_7.foto' => '',
+    'deca_7.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9678.JPG',
 
     'nintegrantes' => '7',
 

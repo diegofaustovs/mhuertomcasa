@@ -18,19 +18,19 @@ return[
 
     'deca_2.nombre' => 'Catalina Tamayo',
     'deca_2.cargo' => 'Decathlete',
-    'deca_2.foto' => '',
+    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9737.JPG',
 
     'deca_3.nombre' => 'Andr&eacute;s Mauricio Dussan',
     'deca_3.cargo' => 'Decathlete',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9742.JPG',
 
     'deca_4.nombre' => 'William Felipe Rivera',
     'deca_4.cargo' => 'Decathlete',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9729.JPG',
 
     'deca_5.nombre' => 'Juli&aacute;n Prieto',
     'deca_5.cargo' => 'Decathlete',
-    'deca_5.foto' => '',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9727.JPG',
 
     'nintegrantes' => '5',
 

@@ -19,15 +19,15 @@ return [
 
     'deca_2.nombre' => 'Andr&eacute;s Plazas',
     'deca_2.cargo' => 'Civil Engineer Group Decathlete',
-    'deca_2.foto' => '',
+    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9644.JPG',
 
     'deca_3.nombre' => 'Erix Ariza',
     'deca_3.cargo' => 'Civil Engineer Group Decathlete',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9659.JPG',
 
     'deca_4.nombre' => 'Sebasti&aacute;n Cardenas',
     'deca_4.cargo' => 'Waste Management Design',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9735.JPG',
 
     'deca_5.nombre' => 'M&oacute;nica Quijano',
     'deca_5.cargo' => 'Hydraulic-Water Treatment Design',
@@ -35,7 +35,7 @@ return [
 
     'deca_6.nombre' => 'Lina Maria Pintor',
     'deca_6.cargo' => 'Solid Waste Management Planning',
-    'deca_6.foto' => '',
+    'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9636.JPG',
 
     'nintegrantes' => '6'
 

@@ -16,7 +16,7 @@ return[
 
     'deca_3.nombre' => 'Daniela Valdes',
     'deca_3.cargo' => 'Decathlete',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9692.JPG',
 
     'deca_4.nombre' => 'Veronica Posada',
     'deca_4.cargo' => 'Decathlete',

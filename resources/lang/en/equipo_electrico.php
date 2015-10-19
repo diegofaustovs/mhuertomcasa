@@ -18,7 +18,7 @@ return[
 
     'deca_2.nombre' => 'Andr&eacute;s Enrique Villamil Prieto',
     'deca_2.cargo' => 'Instrumentation Contact',
-    'deca_2.foto' => '',
+    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9619.JPG',
 
     'deca_3.nombre' => '&Oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
     'deca_3.cargo' => 'Decathlete',
@@ -26,19 +26,19 @@ return[
 
     'deca_4.nombre' => 'Mar&iacute;a Camila Mar&iacute;n Camargo',
     'deca_4.cargo' => 'Decathlete',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9722.JPG',
 
     'deca_5.nombre' => 'Cristi&aacute;n Camilo Zambrano Rinc&oacute;n',
     'deca_5.cargo' => 'Decathlete',
-    'deca_5.foto' => '',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9610.JPG',
 
     'deca_6.nombre' => 'Mar&iacute;a Paula Gonz&aacute;lez Rodr&iacute;guez',
     'deca_6.cargo' => 'Decathlete',
-    'deca_6.foto' => '',
+    'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9672.JPG',
 
     'deca_7.nombre' => 'Daniel Camilo Arias Melo',
     'deca_7.cargo' => 'Decathlete',
-    'deca_7.foto' => '',
+    'deca_7.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9614.JPG',
 
     'nintegrantes' => '7',
 

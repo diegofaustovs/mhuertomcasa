@@ -14,11 +14,11 @@ return [
 
     'deca_1.nombre' => 'Juan Mario Pradilla',
     'deca_1.cargo' => 'Urban Master Plan Leader',
-    'deca_1.foto' => '',
+    'deca_1.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9623.JPG',
 
     'deca_2.nombre' => 'Irene Arango',
     'deca_2.cargo' => 'Urban Master Plan Decathlete',
-    'deca_2.foto' => '',
+    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9608.JPG',
 
     'deca_3.nombre' => 'Ana Mar&iacute;a Vivas',
     'deca_3.cargo' => 'Urban Master Plan Decathlete',
@@ -26,7 +26,7 @@ return [
 
     'deca_4.nombre' => 'Luis Miguel Narv&aacute;ez',
     'deca_4.cargo' => 'Urban Master Plan Decathlete',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9638.JPG',
 
     'deca_5.nombre' => 'Andr&eacute;s Felipe Cabal',
     'deca_5.cargo' => 'Arquitectural Design Leader',
@@ -34,7 +34,7 @@ return [
 
     'deca_6.nombre' => 'Santiago Palacio',
     'deca_6.cargo' => 'Arquitectural Design Decathlete',
-    'deca_6.foto' => '',
+    'deca_6.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9663.JPG',
 
     'deca_7.nombre' => 'Juan Pablo Bravo',
     'deca_7.cargo' => 'Arquitectural Design Decathlete',

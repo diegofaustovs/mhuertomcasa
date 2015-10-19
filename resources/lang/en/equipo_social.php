@@ -22,21 +22,17 @@ return[
 
     'deca_3.nombre' => 'Lina Casta&ntilde;o',
     'deca_3.cargo' => 'Encargada de gr&aacute;ficos',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9701.JPG',
 
     'deca_4.nombre' => 'Katherine Morales',
     'deca_4.cargo' => 'Encargada de proyectos de reciclaje',
-    'deca_4.foto' => '',
+    'deca_4.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9703.JPG',
 
     'deca_5.nombre' => 'Mar&iacute;a Fernanda S&aacute;nchez',
     'deca_5.cargo' => 'An&aacute;lisis econ&oacute;mico',
-    'deca_5.foto' => '',
+    'deca_5.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9697.JPG',
 
-    'deca_6.nombre' => 'Lina Mar&iacute;a Hoyos',
-    'deca_6.cargo' => 'An&aacute;lisis de poblaci&oacute;n',
-    'deca_6.foto' => '',
-
-    'nintegrantes' => '6',
+    'nintegrantes' => '5',
 
     'f_banner_1' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9705.JPG',
     'f_banner_2' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_8595.JPG',
