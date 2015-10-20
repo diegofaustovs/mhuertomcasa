@@ -16,11 +16,9 @@ return[
 
     'deca_3.nombre' => 'Daniela Valdes',
     'deca_3.cargo' => 'Decatleta',
-    'deca_3.foto' => '',
 
     'deca_4.nombre' => 'Veronica Posada',
     'deca_4.cargo' => 'Decatleta',
-    'deca_4.foto' => '',
 
     'nintegrantes' => '4'
 ];
