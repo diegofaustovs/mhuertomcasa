@@ -2,7 +2,7 @@
 
 return[
 
-    'equipo' => 'Interior Design Team',
+    'equipo' => 'Equipo de Diseño de Interiores',
 
     'motivacion' => '',
 
