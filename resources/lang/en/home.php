@@ -15,5 +15,5 @@ return [
     'who' => 'In order to set forth an integral proposal, we formed a team with a variety of students from different programs, we also got the sponsorship of Emgesa, Codensa and the Enel Group which is leader in the distribution of electricity in Bogotá and Cundinamarca, Colombia. This team academy-company is fully capable of proposing a disruptive and sustainable solution with great social impact in Latin America and the Caribbean.',
     'media'=> 'Media',
     's_network'=> 'Our Social Networks',
-    'more_media'=> 'See more videos on our <a id="media_link">Media Section</a>',
+    'more_media'=> 'See more videos on our <a href="/en/videos" id="media_link">Media Section</a>',
 ];

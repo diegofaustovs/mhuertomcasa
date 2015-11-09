@@ -15,5 +15,6 @@ return [
     'who' => 'Con el fin de elaborar una propuesta integral, formamos un equipo con los mejores estudiantes de diferentes programas, igualmente contamos con el patrocinio de Emgesa, Codensa y el Grupo Enel que es l&iacute;der en la distribuci&oacute;n de energ&iacute;a el&eacute;ctrica en Bogot&aacute; y Cundinamarca, Colombia. Esta alianza academia – empresa es plenamente capaz de proponer una soluci&oacute;n disruptiva, sostenible con gran impacto social para Am&eacute;rica Latina y el Caribe.',
     'media'=> 'Medios',
     's_network'=> 'Redes Sociales',
-    'more_media'=> 'Encuentra más videos en nuestra <a id="media_link">Sección de Medios</a>',
+    'more_media'=> 'Encuentra más videos en nuestra <a href="/es/videos" id="media_link">Sección de Medios</a>',
+    'count_Title' => '&iquest;Cuanto Falta?',
 ];

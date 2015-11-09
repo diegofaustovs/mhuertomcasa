@@ -43,6 +43,19 @@
             </div>
         </section>
 
+        <!--<section id="counter" class="wrapper style1 countdown">
+            <div class="contenido container special overlay">
+                <header class="head_main">
+                    <h2 class="titulo">{{Lang::get('home.count_Title')}}</h2>
+                </header>
+                <div id="contest-timer" >
+                    <span class="days"></span> : <span class="hours"></span> : <span class="minutes"></span> : <span class="seconds"></span>
+                </div>
+                <footer>
+                </footer>
+            </div>
+        </section>-->
+
         <section id="" class="wrapper style1 video_main">
             <div class="contenido container special overlay">
                 <header class="head_main">
@@ -77,6 +90,58 @@
             js = d.createElement(s); js.id = id;
             js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
             fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <script type="text/javascript">
+        var deadline = 'December 1 2015 23:59:59 GMT+05:00';
+        initializeClock();
+
+        function getTimeRemaining(endtime){
+
+            var t = Date.parse(endtime) - Date.parse(new Date());
+            var seconds = Math.floor( (t/1000) % 60 );
+            var minutes = Math.floor( (t/1000/60) % 60 );
+            var hours = Math.floor( (t/(1000*60*60)) % 24 );
+            var days = Math.floor( t/(1000*60*60*24) );
+            return {
+                'total': t,
+                'days': days,
+                'hours': hours,
+                'minutes': minutes,
+                'seconds': seconds
+            };
+        }
+
+        function updateClock()
+        {
+            var t = getTimeRemaining(deadline);
+            daysSpan.innerHTML = ('0' + t.days).slice(-2);
+            hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+            minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+            secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+            if(t.total<=0){
+                clearInterval(timeinterval);
+            }
+
+        }
+
+        function initializeClock()
+        {
+            clock = document.getElementById("contest-timer");
+
+            daysSpan = clock.querySelector('.days');
+            hoursSpan = clock.querySelector('.hours');
+            minutesSpan = clock.querySelector('.minutes');
+            secondsSpan = clock.querySelector('.seconds');
+
+            updateClock();
+
+            var timeinterval = setInterval(updateClock,1000);
+        }
+
+    </script>
+
     </div>
 @endsection

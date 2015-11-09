@@ -26,6 +26,7 @@
                             <div class="yt_container">
                                 <iframe class="yt_video" src="https://www.youtube.com/embed/qylv6f_mAYE" frameborder="0" allowfullscreen></iframe>
                             </div>
+                        </article>
                         <article class="6u 12u(mobile) special">
                             <div class="yt_container">
                                 <iframe class="yt_video" src="https://www.youtube.com/embed/Us6N7FllxT8" frameborder="0" allowfullscreen></iframe>
