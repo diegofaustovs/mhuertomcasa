@@ -18,11 +18,11 @@ return[
 
     'deca_2.nombre' => 'Andr&eacute;s Enrique Villamil Prieto',
     'deca_2.cargo' => 'Instrumentation Contact',
-    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9619.JPG',
+    'deca_2.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_9620.JPG',
 
     'deca_3.nombre' => '&Oacute;scar Andr&eacute;s Berr&iacute;o Navarrete',
     'deca_3.cargo' => 'Decathlete',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_0178.jpg',
 
     'deca_4.nombre' => 'Mar&iacute;a Camila Mar&iacute;n Camargo',
     'deca_4.cargo' => 'Decathlete',

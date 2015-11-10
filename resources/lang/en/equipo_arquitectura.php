@@ -22,7 +22,7 @@ return [
 
     'deca_3.nombre' => 'Ana Mar&iacute;a Vivas',
     'deca_3.cargo' => 'Urban Master Plan Decathlete',
-    'deca_3.foto' => '',
+    'deca_3.foto' => 'https://s3-us-west-2.amazonaws.com/fausto-mhmc/IMG_0179.JPG',
 
     'deca_4.nombre' => 'Luis Miguel Narv&aacute;ez',
     'deca_4.cargo' => 'Urban Master Plan Decathlete',
