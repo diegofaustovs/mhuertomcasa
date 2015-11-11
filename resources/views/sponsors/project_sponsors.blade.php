@@ -40,6 +40,22 @@
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="patro col-md-6">
+                        <img class="imgcentrada patro" src="images/Carvajal.png" alt="" />
+                    </div>
+                    <div class="patro col-md-6">
+                        <img class="imgcentrada patro" src="images/Setri.png" alt="" />
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="patro col-md-5 col-md-offset-3">
+                        <img class="imgcentrada patro" src="images/Corona.png" alt="" />
+                    </div>
+                </div>
+
                 <div class="contenido">
                     <div class="row text-center">
                         <header>
